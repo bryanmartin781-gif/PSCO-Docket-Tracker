@@ -1,13 +1,11 @@
-const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 const fs = require('fs');
-const path = require('path');
 
 const DOCKETS = process.env.DOCKETS.split(',');
 
 // SABESS risk keywords and implications
 const SABESS_KEYWORDS = {
-  'load forecast': { risk: 'HIGH', category: 'Procurement', impact: 'Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.' },
+  'load forecast': { risk: 'CRITICAL', category: 'Procurement', impact: 'Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.' },
   'transmission': { risk: 'HIGH', category: 'Infrastructure', impact: 'Transmission constraints in northern pocket (Fort Lupton) affect interconnection timing and headroom.' },
   'fort lupton': { risk: 'CRITICAL', category: 'Site-Specific', impact: 'Direct mention of your project location. Monitor interconnection, headroom, and grid support.' },
   'arroyo 2': { risk: 'HIGH', category: 'Precedent', impact: 'Arroyo 2 BESS is your direct precedent. Track interconnection approach, provisional service, timeline.' },
@@ -173,12 +171,12 @@ function generateSABESSReport(newFilings) {
   md += `Found ${sabessFilings.length} SABESS-relevant filing(s) this cycle.\n\n`;
   
   // Group by risk level
-  const byRisk = { CRITICAL: [], HIGH: [], MEDIUM: [] };
+  const byRisk = { CRITICAL: [], HIGH: [], MEDIUM: [], LOW: [] };
   sabessFilings.forEach(f => {
     byRisk[f.sabess.riskLevel].push(f);
   });
   
-  for (const riskLevel of ['CRITICAL', 'HIGH', 'MEDIUM']) {
+  for (const riskLevel of ['CRITICAL', 'HIGH', 'MEDIUM', 'LOW']) {
     if (byRisk[riskLevel].length > 0) {
       md += `## ${riskLevel} Risk (${byRisk[riskLevel].length})\n\n`;
       
