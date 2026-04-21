@@ -19,7 +19,7 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install cheerio node-fetch nodemailer
+        run: npm install cheerio node-fetch@2 nodemailer
 
       - name: Crawl dockets
         run: node crawl-dockets.js
