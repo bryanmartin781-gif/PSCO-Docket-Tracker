@@ -1,0 +1,35 @@
+name: PSCO Docket Tracker
+
+on:
+  schedule:
+    - cron: '0 9 */3 * *'  # Every 3 days at 9 AM UTC
+  workflow_dispatch:  # Also allow manual triggers
+
+jobs:
+  crawl-dockets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install cheerio node-fetch
+
+      - name: Crawl dockets
+        run: node crawl-dockets.js
+        env:
+          DOCKETS: '21A-0141E,24A-0442E,25V-0480E,26AL-0137E,25AL-0494E'
+
+      - name: Commit & push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Docket Tracker Bot"
+          git add -A
+          git commit -m "Update dockets: $(date)" || echo "No changes to commit"
+          git push
