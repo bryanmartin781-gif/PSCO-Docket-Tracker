@@ -19,12 +19,19 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install cheerio node-fetch
+        run: npm install cheerio node-fetch nodemailer
 
       - name: Crawl dockets
         run: node crawl-dockets.js
         env:
           DOCKETS: '21A-0141E,24A-0442E,25V-0480E,26AL-0137E,25AL-0494E'
+
+      - name: Send email digest
+        run: node send-email.js
+        env:
+          GMAIL_USER: bmartin@aypa.com
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: bmartin@aypa.com
 
       - name: Commit & push changes
         run: |
