@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '18'
       - name: Install dependencies
-        run: npm install cheerio nodemailer
+        run: npm install cheerio@1.0.0-rc.12 nodemailer
       - name: Crawl dockets
         run: node crawl-dockets.js
         env:
