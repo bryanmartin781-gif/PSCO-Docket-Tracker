@@ -1,5 +1,5 @@
-const cheerio = require('cheerio');
-const fs = require('fs');
+import * as cheerio from 'cheerio';
+import fs from 'fs';
 
 const DOCKETS = process.env.DOCKETS.split(',');
 
@@ -107,7 +107,6 @@ async function main() {
       );
       
       if (!exists) {
-        // Analyze new filing for SABESS implications
         const analysis = analyzeSABESS(filing);
         filing.sabess = analysis;
         
@@ -196,7 +195,6 @@ function generateSABESSReport(newFilings) {
     }
   }
   
-  // Summary of risk categories mentioned
   md += `## Risk Categories This Cycle\n\n`;
   const categoryCount = {};
   sabessFilings.forEach(f => {
