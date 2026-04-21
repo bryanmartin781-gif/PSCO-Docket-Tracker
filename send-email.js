@@ -1,5 +1,5 @@
-const fs = require('fs');
-const nodemailer = require('nodemailer');
+import fs from 'fs';
+import nodemailer from 'nodemailer';
 
 async function sendEmail() {
   const gmailUser = process.env.GMAIL_USER;
@@ -36,11 +36,9 @@ PSCO Docket Tracker Digest
 ${new Date().toISOString()}
 
 === SABESS IMPLICATIONS ===
-
 ${sabessReport}
 
 === ALL FILINGS ===
-
 ${latestFilings}
 
 ---
