@@ -1,0 +1,9 @@
+{
+  "name": "psco-docket-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "nodemailer": "^6.9.7"
+  }
+}
