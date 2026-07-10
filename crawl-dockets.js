@@ -45,7 +45,13 @@ async function crawlDocket(docketId) {
     // DORA's page nests tables for layout, so we use .children('td') (not .find('td'))
     // to only grab cells that belong directly to this row, not cells from nested tables.
     // Real columns are: Title | Submitted | Document Type(s) | Filing Party | Confidentiality
+    const daysBack = parseInt(process.env.DAYS_BACK || '180', 10);
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - daysBack);
+
     const filings = [];
+    let skippedOld = 0;
+
     $('tr').each((i, elem) => {
       const cells = $(elem).children('td');
       if (cells.length >= 5) {
@@ -55,15 +61,23 @@ async function crawlDocket(docketId) {
         const submitter = $(cells[3]).text().trim();
         const confidentiality = $(cells[4]).text().trim();
 
-        // Validate this is a real filing row (date column should look like a date/day string)
-        const dateMatch = date.match(/\d{2}\/\d{2}\/\d{4}/);
+        // Validate this is a real filing row and extract MM/DD/YYYY
+        // (native Date parsing is unreliable on "Mon 07/06/2026 04:03 am" format)
+        const dateMatch = date.match(/(\d{2})\/(\d{2})\/(\d{4})/);
         if (title && dateMatch) {
-          filings.push({ date, title, docType, submitter, confidentiality, docketId, fetchedAt: new Date().toISOString() });
+          const [, month, day, year] = dateMatch;
+          const parsedDate = new Date(`${year}-${month}-${day}`);
+
+          if (parsedDate >= cutoff) {
+            filings.push({ date, parsedDate: parsedDate.toISOString(), title, docType, submitter, confidentiality, docketId, fetchedAt: new Date().toISOString() });
+          } else {
+            skippedOld++;
+          }
         }
       }
     });
 
-    console.log(`[DEBUG] ${docketId} - Parsed ${filings.length} valid filing rows`);
+    console.log(`[DEBUG] ${docketId} - Parsed ${filings.length} filing(s) within last ${daysBack} days (skipped ${skippedOld} older)`);
 
     return filings;
   } catch (error) {
