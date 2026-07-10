@@ -25,7 +25,7 @@ const SABESS_KEYWORDS = {
 };
 
 async function crawlDocket(docketId) {
-  const url = `https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_docket_id=${docketId}`;
+  const url = `https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=${docketId}`;
 
   try {
     const response = await fetch(url, {
