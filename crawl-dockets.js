@@ -26,19 +26,28 @@ const SABESS_KEYWORDS = {
 
 async function crawlDocket(docketId) {
   const url = `https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_docket_id=${docketId}`;
-  
+
   try {
     const response = await fetch(url, {
       headers: {
         'User-Agent': 'PSCO-Docket-Tracker/1.0 (Educational; github.com/your-repo)'
       }
     });
-    
+
+    console.log(`[DEBUG] ${docketId} - HTTP status: ${response.status}`);
+
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    
+
     const html = await response.text();
+    console.log(`[DEBUG] ${docketId} - HTML length: ${html.length}`);
+    console.log(`[DEBUG] ${docketId} - First 500 chars: ${html.slice(0, 500)}`);
+
     const $ = cheerio.load(html);
-    
+
+    const tableCount = $('table').length;
+    const rowCount = $('table tr').length;
+    console.log(`[DEBUG] ${docketId} - Tables found: ${tableCount}, Rows found: ${rowCount}`);
+
     // Parse the filing table
     const filings = [];
     $('table tr').each((i, elem) => {
@@ -47,13 +56,13 @@ async function crawlDocket(docketId) {
         const date = $(cells[0]).text().trim();
         const title = $(cells[1]).text().trim();
         const submitter = $(cells[2]).text().trim();
-        
+
         if (date && title) {
           filings.push({ date, title, submitter, docketId, fetchedAt: new Date().toISOString() });
         }
       }
     });
-    
+
     return filings;
   } catch (error) {
     console.error(`Error crawling ${docketId}:`, error.message);
@@ -64,7 +73,7 @@ async function crawlDocket(docketId) {
 function analyzeSABESS(filing) {
   const text = (filing.title + ' ' + filing.submitter).toLowerCase();
   const implications = [];
-  
+
   for (const [keyword, rule] of Object.entries(SABESS_KEYWORDS)) {
     if (text.includes(keyword)) {
       implications.push({
@@ -75,11 +84,11 @@ function analyzeSABESS(filing) {
       });
     }
   }
-  
+
   return {
     isSABESSRelevant: implications.length > 0,
-    riskLevel: implications.length > 0 ? 
-      (implications.some(i => i.risk === 'CRITICAL') ? 'CRITICAL' : 
+    riskLevel: implications.length > 0 ?
+      (implications.some(i => i.risk === 'CRITICAL') ? 'CRITICAL' :
        implications.some(i => i.risk === 'HIGH') ? 'HIGH' : 'MEDIUM') : 'LOW',
     implications
   };
@@ -87,51 +96,51 @@ function analyzeSABESS(filing) {
 
 async function main() {
   let allFilings = [];
-  
+
   // Load existing filings
   if (fs.existsSync('filings.json')) {
     allFilings = JSON.parse(fs.readFileSync('filings.json', 'utf8'));
   }
-  
+
   const newFilingsList = [];
-  
+
   // Crawl each docket
   for (const docketId of DOCKETS) {
     console.log(`Crawling ${docketId}...`);
     const crawledFilings = await crawlDocket(docketId);
-    
+
     crawledFilings.forEach(filing => {
-      const exists = allFilings.find(f => 
-        f.docketId === filing.docketId && 
+      const exists = allFilings.find(f =>
+        f.docketId === filing.docketId &&
         f.title === filing.title
       );
-      
+
       if (!exists) {
         const analysis = analyzeSABESS(filing);
         filing.sabess = analysis;
-        
+
         allFilings.push(filing);
         newFilingsList.push(filing);
-        
+
         console.log(`  NEW: ${filing.title} [${analysis.riskLevel}]`);
       }
     });
-    
+
     // Rate limiting: 1 second between requests
     await new Promise(resolve => setTimeout(resolve, 1000));
   }
-  
+
   // Save to JSON
   fs.writeFileSync('filings.json', JSON.stringify(allFilings, null, 2));
-  
+
   // Generate markdown summary with SABESS analysis
   const summary = generateSummary(allFilings, newFilingsList);
   fs.writeFileSync('LATEST_FILINGS.md', summary);
-  
+
   // Generate SABESS-specific report
   const sabessReport = generateSABESSReport(newFilingsList);
   fs.writeFileSync('SABESS_IMPLICATIONS.md', sabessReport);
-  
+
   console.log(`Total filings tracked: ${allFilings.length}`);
   console.log(`New filings this cycle: ${newFilingsList.length}`);
   console.log(`SABESS-relevant filings: ${newFilingsList.filter(f => f.sabess.isSABESSRelevant).length}`);
@@ -143,10 +152,10 @@ function generateSummary(filings, newFilings) {
     if (!byDocket[f.docketId]) byDocket[f.docketId] = [];
     byDocket[f.docketId].push(f);
   });
-  
+
   let md = `# PSCO Docket Tracker\n\nLast updated: ${new Date().toISOString()}\n`;
   md += `New filings this cycle: ${newFilings.length} | SABESS-relevant: ${newFilings.filter(f => f.sabess?.isSABESSRelevant).length}\n\n`;
-  
+
   for (const [docketId, docketFilings] of Object.entries(byDocket)) {
     md += `## ${docketId}\n\n`;
     docketFilings.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10).forEach(f => {
@@ -155,46 +164,46 @@ function generateSummary(filings, newFilings) {
     });
     md += '\n';
   }
-  
+
   return md;
 }
 
 function generateSABESSReport(newFilings) {
   const sabessFilings = newFilings.filter(f => f.sabess.isSABESSRelevant);
-  
+
   if (sabessFilings.length === 0) {
     return `# SABESS Implications Report\n\nLast updated: ${new Date().toISOString()}\n\n**No SABESS-relevant filings this cycle.**\n`;
   }
-  
+
   let md = `# SABESS Implications Report\n\nLast updated: ${new Date().toISOString()}\n\n`;
   md += `Found ${sabessFilings.length} SABESS-relevant filing(s) this cycle.\n\n`;
-  
+
   // Group by risk level
   const byRisk = { CRITICAL: [], HIGH: [], MEDIUM: [], LOW: [] };
   sabessFilings.forEach(f => {
     byRisk[f.sabess.riskLevel].push(f);
   });
-  
+
   for (const riskLevel of ['CRITICAL', 'HIGH', 'MEDIUM', 'LOW']) {
     if (byRisk[riskLevel].length > 0) {
       md += `## ${riskLevel} Risk (${byRisk[riskLevel].length})\n\n`;
-      
+
       byRisk[riskLevel].forEach(filing => {
         md += `### ${filing.title}\n`;
         md += `- **Docket:** ${filing.docketId}\n`;
         md += `- **Date:** ${filing.date}\n`;
         md += `- **Submitter:** ${filing.submitter}\n`;
         md += `- **Implications:**\n`;
-        
+
         filing.sabess.implications.forEach(impl => {
           md += `  - **${impl.keyword}** [${impl.risk}]: ${impl.impact}\n`;
         });
-        
+
         md += '\n';
       });
     }
   }
-  
+
   md += `## Risk Categories This Cycle\n\n`;
   const categoryCount = {};
   sabessFilings.forEach(f => {
@@ -202,11 +211,11 @@ function generateSABESSReport(newFilings) {
       categoryCount[impl.category] = (categoryCount[impl.category] || 0) + 1;
     });
   });
-  
+
   Object.entries(categoryCount).sort((a, b) => b[1] - a[1]).forEach(([cat, count]) => {
     md += `- ${cat}: ${count} mention(s)\n`;
   });
-  
+
   return md;
 }
 
