@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-07-10T23:18:44.179Z
-New filings this cycle: 1828 | SABESS-relevant: 147
+Last updated: 2026-07-10T23:38:34.457Z
+New filings this cycle: 0 | SABESS-relevant: 0
 
 ## 21A-0141E
 
