@@ -39,29 +39,31 @@ async function crawlDocket(docketId) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const html = await response.text();
-    console.log(`[DEBUG] ${docketId} - HTML length: ${html.length}`);
-    console.log(`[DEBUG] ${docketId} - First 500 chars: ${html.slice(0, 500)}`);
-
     const $ = cheerio.load(html);
 
-    const tableCount = $('table').length;
-    const rowCount = $('table tr').length;
-    console.log(`[DEBUG] ${docketId} - Tables found: ${tableCount}, Rows found: ${rowCount}`);
-
-    // Parse the filing table
+    // Parse the filing table.
+    // DORA's page nests tables for layout, so we use .children('td') (not .find('td'))
+    // to only grab cells that belong directly to this row, not cells from nested tables.
+    // Real columns are: Title | Submitted | Document Type(s) | Filing Party | Confidentiality
     const filings = [];
-    $('table tr').each((i, elem) => {
-      const cells = $(elem).find('td');
-      if (cells.length >= 3) {
-        const date = $(cells[0]).text().trim();
-        const title = $(cells[1]).text().trim();
-        const submitter = $(cells[2]).text().trim();
+    $('tr').each((i, elem) => {
+      const cells = $(elem).children('td');
+      if (cells.length >= 5) {
+        const title = $(cells[0]).text().trim();
+        const date = $(cells[1]).text().trim();
+        const docType = $(cells[2]).text().trim();
+        const submitter = $(cells[3]).text().trim();
+        const confidentiality = $(cells[4]).text().trim();
 
-        if (date && title) {
-          filings.push({ date, title, submitter, docketId, fetchedAt: new Date().toISOString() });
+        // Validate this is a real filing row (date column should look like a date/day string)
+        const dateMatch = date.match(/\d{2}\/\d{2}\/\d{4}/);
+        if (title && dateMatch) {
+          filings.push({ date, title, docType, submitter, confidentiality, docketId, fetchedAt: new Date().toISOString() });
         }
       }
     });
+
+    console.log(`[DEBUG] ${docketId} - Parsed ${filings.length} valid filing rows`);
 
     return filings;
   } catch (error) {
@@ -112,7 +114,8 @@ async function main() {
     crawledFilings.forEach(filing => {
       const exists = allFilings.find(f =>
         f.docketId === filing.docketId &&
-        f.title === filing.title
+        f.title === filing.title &&
+        f.date === filing.date
       );
 
       if (!exists) {
