@@ -255,14 +255,16 @@ function generateSummary(filings, newFilings, docketNames) {
   if (PROJECT_CONTEXT.length > 0) {
     md += `## Background Context\n\n`;
     PROJECT_CONTEXT.forEach(ctx => {
-      md += `- **${ctx.docketId}**: ${ctx.note}\n`;
+      const url = `https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=${ctx.docketId}`;
+      md += `- **[${ctx.docketId}](${url})**: ${ctx.note}\n`;
     });
     md += '\n';
   }
 
   for (const [docketId, docketFilings] of Object.entries(byDocket)) {
     const name = docketNames[docketId] || docketFilings[0]?.proceedingName || 'Unknown Proceeding';
-    md += `## ${docketId}: ${name}\n\n`;
+    const url = `https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=${docketId}`;
+    md += `## [${docketId}](${url}): ${name}\n\n`;
     docketFilings.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10).forEach(f => {
       const sabessFlag = f.sabess?.isSABESSRelevant ? ` ⚡ [${f.sabess.riskLevel}]` : '';
       md += `- **${f.date}** | ${f.title} | *${f.submitter}*${sabessFlag}\n`;
