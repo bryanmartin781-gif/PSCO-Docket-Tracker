@@ -2,12 +2,20 @@ import fs from 'fs';
 import nodemailer from 'nodemailer';
 import { marked } from 'marked';
 
+// Removes the leading "# Title" and "Last updated: ..." lines from a generated
+// markdown report, since the email already shows its own section header for this
+// content — keeping both was creating redundant, cluttered-looking nested titles.
+function stripLeadingMeta(markdown) {
+  const lines = markdown.split('\n');
+  const firstContentIndex = lines.findIndex(line => line.trim().startsWith('##') || line.trim().startsWith('**No SABESS'));
+  return firstContentIndex === -1 ? markdown : lines.slice(firstContentIndex).join('\n');
+}
+
 async function sendEmail() {
   const gmailUser = process.env.GMAIL_USER;
   const gmailPassword = process.env.GMAIL_APP_PASSWORD;
   const recipientEmail = process.env.RECIPIENT_EMAIL;
 
-  // Read the SABESS report
   let sabessReport = '';
   if (fs.existsSync('SABESS_IMPLICATIONS.md')) {
     sabessReport = fs.readFileSync('SABESS_IMPLICATIONS.md', 'utf8');
@@ -15,13 +23,11 @@ async function sendEmail() {
     sabessReport = 'No SABESS-relevant filings this cycle.';
   }
 
-  // Read the latest filings
   let latestFilings = '';
   if (fs.existsSync('LATEST_FILINGS.md')) {
     latestFilings = fs.readFileSync('LATEST_FILINGS.md', 'utf8');
   }
 
-  // Create transporter
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
@@ -30,10 +36,8 @@ async function sendEmail() {
     }
   });
 
-  // Prepare email
   const subject = `PSCO Docket Update — ${new Date().toLocaleDateString()}`;
 
-  // Plain-text fallback (for email clients that can't render HTML)
   const textBody = `
 PSCO Docket Tracker Digest
 ${new Date().toISOString()}
@@ -48,28 +52,39 @@ ${latestFilings}
 Check your repo for full details: https://github.com/your-username/PSCO-Docket-Tracker
   `;
 
-  // Convert markdown sections to HTML so they render properly in the email client
-  const sabessHtml = marked.parse(sabessReport);
-  const latestFilingsHtml = marked.parse(latestFilings);
+  const sabessHtml = marked.parse(stripLeadingMeta(sabessReport));
+  const latestFilingsHtml = marked.parse(stripLeadingMeta(latestFilings));
 
   const htmlBody = `
-    <div style="font-family: Arial, sans-serif; font-size: 14px; color: #1a1a1a; max-width: 800px;">
-      <h1 style="font-size: 18px;">PSCO Docket Tracker Digest</h1>
-      <p style="color: #666; font-size: 12px;">${new Date().toISOString()}</p>
+    <div style="font-family: -apple-system, Segoe UI, Arial, sans-serif; font-size: 14px; color: #24292f; max-width: 800px; line-height: 1.6;">
+      <h1 style="font-size: 20px; margin-bottom: 4px;">PSCO Docket Tracker Digest</h1>
+      <p style="color: #656d76; font-size: 12px; margin-top: 0;">${new Date().toISOString()}</p>
 
-      <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
-      <h2 style="font-size: 16px; background: #fff3cd; padding: 6px 10px;">⚡ SABESS Implications</h2>
-      ${sabessHtml}
+      <div style="background: #fff8c5; border: 1px solid #d4a72c; border-radius: 6px; padding: 12px 16px; margin: 20px 0;">
+        <h2 style="font-size: 16px; margin: 0 0 8px 0;">⚡ SABESS Implications</h2>
+        <div style="font-size: 14px;">
+          ${sabessHtml}
+        </div>
+      </div>
 
-      <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
-      <h2 style="font-size: 16px; background: #e7f1ff; padding: 6px 10px;">All Filings</h2>
-      ${latestFilingsHtml}
+      <div style="margin: 20px 0;">
+        <h2 style="font-size: 16px; border-bottom: 1px solid #d0d7de; padding-bottom: 6px;">All Filings</h2>
+        <div>
+          ${latestFilingsHtml}
+        </div>
+      </div>
 
-      <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
-      <p style="font-size: 12px; color: #666;">
+      <hr style="border: none; border-top: 1px solid #d0d7de; margin: 20px 0;">
+      <p style="font-size: 12px; color: #656d76;">
         Check your repo for full details:
         <a href="https://github.com/your-username/PSCO-Docket-Tracker">https://github.com/your-username/PSCO-Docket-Tracker</a>
       </p>
+
+      <style>
+        h3 { font-size: 15px; margin: 18px 0 4px 0; border-bottom: 1px solid #eaeef2; padding-bottom: 4px; }
+        ul { margin: 8px 0; padding-left: 20px; }
+        li { margin-bottom: 10px; }
+      </style>
     </div>
   `;
 
