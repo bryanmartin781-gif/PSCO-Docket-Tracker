@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-07-16T11:02:22.717Z
-New filings this cycle: 42 | SABESS-relevant: 9
+Last updated: 2026-07-19T10:29:51.107Z
+New filings this cycle: 4 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 42 | SABESS-relevant: 9
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Thu 07/16/2026 02:14 pm** | Notice of Withdrawal of Frances Koncilja | *City of Pueblo*
 - **Tue 07/14/2026 08:00 am** | Appendix D4 - Model Standalone Storage PPA (Revised) | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Tue 07/14/2026 08:00 am** | Appendix D5 - Model Distribution Connected Energy Storage PPA (Revised) | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Tue 07/14/2026 08:00 am** | Appendix H, Point of Interconnection List | *Public Service Company of Colorado* ⚡ [HIGH]
@@ -32,7 +33,6 @@ New filings this cycle: 42 | SABESS-relevant: 9
 - **Tue 07/14/2026 08:00 am** | Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Executable Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Appendix B, Updated JTS Modeling Inputs & Assumptions | *Public Service Company of Colorado*
-- **Tue 07/14/2026 08:00 am** | Appendix D1 - Model Renewable Energy PPA (Revised) | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,6 +49,8 @@ New filings this cycle: 42 | SABESS-relevant: 9
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Fri 07/17/2026 02:20 pm** | Response in support of Public Service Motion for Reconsideration | *Google LLC*
+- **Fri 07/17/2026 02:20 pm** | Motion for acceptance of late filed response | *Google LLC*
 - **Wed 07/15/2026 02:53 pm** | Hearing Exhibit 106, Executable Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:49 pm** | Hearing Exhibit 106, Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Executable Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
@@ -57,8 +59,6 @@ New filings this cycle: 42 | SABESS-relevant: 9
 - **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Executable Attachment SWW-5, Long-Term Rate Forecast Model, Revised No New Large Load | *Public Service Company of Colorado*
 - **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Attachment SWW-6, Long-Term Rate Forecast Model, Revised 1GW New Large Load | *Public Service Company of Colorado*
 - **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Executable Attachment SWW-6, Long-Term Rate Forecast Model, Revised 1GW New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:25 pm** | Hearing Exhibit 106, Supplemental Direct Testimony and Attachments of Steven W. Wishart | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:25 pm** | Hearing Exhibit 106, Attachment SWW-4, Revised Transmission Large Schedule TL with Locational Transmission Demand Charge | *Public Service Company of Colorado* ⚡ [HIGH]
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -75,6 +75,7 @@ New filings this cycle: 42 | SABESS-relevant: 9
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Wed 07/15/2026 08:29 pm** | Commission Decision Addressing Request for Extended Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Wed 07/15/2026 03:54 pm** | COMMENTS OF THE INTERSTATE RENEWABLE ENERGY COUNCIL, INC., THE
 COLORADO SOLAR AND STORAGE ASSOCIATION, THE SOLAR ENERGY
 INDUSTRIES ASSOCIATION, AND THE COALITION FOR COMMUNITY SOLAR
@@ -88,5 +89,4 @@ HOSTING CAPACITY ANALYSIS COMPLIANCE FILING | *Interstate Renewable Energy Counc
 - **Mon 06/29/2026 08:44 am** | Unopposed Motion to Approve Selection of Independent Evaluator and Request to Waive Response Time | *Public Service Company of Colorado*
 - **Wed 06/24/2026 02:12 pm** | Unopposed Motion of Mission:Data Coalition to Establish Comment Period to Respond to Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 - **Tue 06/16/2026 08:36 am** | Commission Decision Addressing Request for Extended Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Mon 06/15/2026 04:03 pm** | 24A-0547E, Confidential Attachment B, Itron CESA Agent and Data Hub Solution | *Public Service Company of Colorado*
 
