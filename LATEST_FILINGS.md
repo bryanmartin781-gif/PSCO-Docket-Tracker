@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-07-19T10:29:51.107Z
-New filings this cycle: 4 | SABESS-relevant: 1
+Last updated: 2026-07-22T11:11:53.158Z
+New filings this cycle: 14 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -49,16 +49,16 @@ New filings this cycle: 4 | SABESS-relevant: 1
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Mon 07/20/2026 09:34 am** | Notice of Opposition to Motion for Acceptance of Late Filed Response | *Google LLC*
 - **Fri 07/17/2026 02:20 pm** | Response in support of Public Service Motion for Reconsideration | *Google LLC*
 - **Fri 07/17/2026 02:20 pm** | Motion for acceptance of late filed response | *Google LLC*
+- **Fri 07/17/2026 02:20 pm** | Google LLC’s Response in Support of Public Service Motion for Reconsideration | *Google LLC*
+- **Fri 07/17/2026 02:20 pm** | Motion for Acceptance of Late Filed Response | *Google LLC*
 - **Wed 07/15/2026 02:53 pm** | Hearing Exhibit 106, Executable Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:49 pm** | Hearing Exhibit 106, Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Executable Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
 - **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
 - **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Attachment SWW-5, Long-Term Rate Forecast Model, Revised No New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Executable Attachment SWW-5, Long-Term Rate Forecast Model, Revised No New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Attachment SWW-6, Long-Term Rate Forecast Model, Revised 1GW New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Executable Attachment SWW-6, Long-Term Rate Forecast Model, Revised 1GW New Large Load | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
