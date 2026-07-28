@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-07-25T10:29:14.160Z
-New filings this cycle: 9 | SABESS-relevant: 5
+Last updated: 2026-07-28T11:19:15.985Z
+New filings this cycle: 10 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 9 | SABESS-relevant: 5
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Mon 07/27/2026 08:00 am** | Notice of Withdrawal of Frances Koncilja representing City of Pueblo | *City of Pueblo*
 - **Thu 07/16/2026 02:14 pm** | Notice of Withdrawal of Frances Koncilja | *City of Pueblo*
 - **Tue 07/14/2026 08:00 am** | Appendix D4 - Model Standalone Storage PPA (Revised) | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Tue 07/14/2026 08:00 am** | Appendix D5 - Model Distribution Connected Energy Storage PPA (Revised) | *Public Service Company of Colorado* ⚡ [MEDIUM]
@@ -32,10 +33,10 @@ New filings this cycle: 9 | SABESS-relevant: 5
 - **Tue 07/14/2026 08:00 am** | Executable Appendix I, Distribution Feeder List | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Executable Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
-- **Tue 07/14/2026 08:00 am** | Appendix B, Updated JTS Modeling Inputs & Assumptions | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Mon 07/27/2026 08:31 am** | Notice of Withdrawal Frances Koncilja City of Pueblo | *City of Pueblo*
 - **Thu 07/23/2026 12:04 pm** | Monthly Comanche Report - July 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Thu 07/23/2026 12:04 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - July 2026 | *Public Service Company of Colorado*
 - **Thu 07/23/2026 12:04 pm** | Appendix A, Sections 1-4 Supporting Appendices - July 2026 | *Public Service Company of Colorado*
@@ -45,7 +46,6 @@ New filings this cycle: 9 | SABESS-relevant: 5
 - **Thu 07/02/2026 01:48 pm** | C26-0439-I Commission Decision Granting Unopposed Motion for Variance from Paragraph 74 of Decision No. C25-0892 Regarding Deadline for Monthly Reporting | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Thu 06/25/2026 03:09 pm** | Public Service Company of Colorado's Unopposed Motion for a Variance from Paragraph 74 of Decision No. C25-0892 and Request for Waiver of Response Time | *Public Service Company of Colorado*
 - **Mon 06/15/2026 03:06 pm** | Monthly Comanche Report - June 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Mon 06/15/2026 03:06 pm** | Appendix A, Sections 1-4 Supporting Appendices - June 2026 | *Public Service Company of Colorado*
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
@@ -62,16 +62,16 @@ New filings this cycle: 9 | SABESS-relevant: 5
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Sun 07/26/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/24/2026 08:00 am** | JTK-1 16A-0231E PSCo Decommissioning Study w Valmont Cost Estimate | *Leslie Glustrom* ⚡ [MEDIUM]
 - **Fri 07/24/2026 08:00 am** | Request to Review Valmont Coal Plant Decommissioning Revenue Requirement | *Leslie Glustrom*
+- **Fri 07/24/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
+- **Thu 07/23/2026 11:09 am** | Public Comment (1) Email | *Comment, Public*
+- **Thu 07/23/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
+- **Tue 07/21/2026 02:27 pm** | Public Comment (1) Email | *Comment, Public*
+- **Tue 07/21/2026 11:54 am** | Public Comment (1) Email | *Comment, Public*
+- **Mon 07/20/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Mon 07/13/2026 08:00 am** | Public Comment (4) Email | *Comment, Public*
-- **Fri 07/10/2026 04:25 pm** | Energy Outreach Colorado's Statement of Position | *Energy Outreach Colorado*
-- **Fri 07/10/2026 04:25 pm** | Attachment 1 to EOC's Statement of Position (June 16, 2026 Public Comment Hearing Transcript Excerpt) | *Energy Outreach Colorado*
-- **Fri 07/10/2026 04:25 pm** | Statement of Position of Energy Outreach Colorado | *Energy Outreach Colorado*
-- **Fri 07/10/2026 04:12 pm** | Trial Staff's Stand-Alone Post-Hearing Statement of Position | *Colorado Public Utilities Commission*
-- **Fri 07/10/2026 03:36 pm** | 25AL-0494E, Sierra Club's Statement of Position | *Sierra Club Environmental Law Program*
-- **Fri 07/10/2026 03:36 pm** | Joint Post Hearing Statement of Position of Settling Parties | *Public Service Company of Colorado*
-- **Fri 07/10/2026 03:36 pm** | Attachment 1, Contested Issues Resolved by Settlement Agreement | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 

@@ -30254,5 +30254,165 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Mon 07/27/2026 08:00 am",
+    "parsedDate": "2026-07-27T00:00:00.000Z",
+    "title": "Notice of Withdrawal of Frances Koncilja representing City of Pueblo",
+    "docType": "Notification",
+    "submitter": "City of Pueblo",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-07-28T11:18:14.320Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 07/27/2026 08:31 am",
+    "parsedDate": "2026-07-27T00:00:00.000Z",
+    "title": "Notice of Withdrawal Frances Koncilja City of Pueblo",
+    "docType": "Notification",
+    "submitter": "City of Pueblo",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-07-28T11:18:19.625Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sun 07/26/2026 01:00 am",
+    "parsedDate": "2026-07-26T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.045Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 07/24/2026 08:00 am",
+    "parsedDate": "2026-07-24T00:00:00.000Z",
+    "title": "Public Comment (1) Transcribed Voice Message",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 07/23/2026 11:09 am",
+    "parsedDate": "2026-07-23T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 07/23/2026 08:00 am",
+    "parsedDate": "2026-07-23T00:00:00.000Z",
+    "title": "Public Comment (1) Transcribed Voice Message",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 07/21/2026 02:27 pm",
+    "parsedDate": "2026-07-21T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 07/21/2026 11:54 am",
+    "parsedDate": "2026-07-21T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 07/20/2026 08:00 am",
+    "parsedDate": "2026-07-20T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 07/01/2026 08:00 am",
+    "parsedDate": "2026-07-01T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-07-28T11:18:53.046Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
