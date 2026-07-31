@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-07-28T11:19:15.985Z
-New filings this cycle: 10 | SABESS-relevant: 0
+Last updated: 2026-07-31T11:31:22.518Z
+New filings this cycle: 7 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 10 | SABESS-relevant: 0
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Thu 07/30/2026 10:39 am** | Notice of Withdrawal of Counsel and Entry of Appearance on Behalf of Pivot Energy | *Pivot Energy*
 - **Mon 07/27/2026 08:00 am** | Notice of Withdrawal of Frances Koncilja representing City of Pueblo | *City of Pueblo*
 - **Thu 07/16/2026 02:14 pm** | Notice of Withdrawal of Frances Koncilja | *City of Pueblo*
 - **Tue 07/14/2026 08:00 am** | Appendix D4 - Model Standalone Storage PPA (Revised) | *Public Service Company of Colorado* ⚡ [MEDIUM]
@@ -32,7 +33,6 @@ New filings this cycle: 10 | SABESS-relevant: 0
 - **Tue 07/14/2026 08:00 am** | Appendix I, Distribution Feeder List | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Executable Appendix I, Distribution Feeder List | *Public Service Company of Colorado*
 - **Tue 07/14/2026 08:00 am** | Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
-- **Tue 07/14/2026 08:00 am** | Executable Appendix J, Non-Price Factor Due Diligence Matrix | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,6 +49,7 @@ New filings this cycle: 10 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Wed 07/29/2026 03:10 pm** | C26-0498 Commission Decision Granting, In Part, and Denying, In Part, Motion for Modification, and Granting Motion for Acceptance of Late Filed Response | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Mon 07/20/2026 09:34 am** | Notice of Opposition to Motion for Acceptance of Late Filed Response | *Google LLC*
 - **Fri 07/17/2026 02:20 pm** | Response in support of Public Service Motion for Reconsideration | *Google LLC*
 - **Fri 07/17/2026 02:20 pm** | Motion for acceptance of late filed response | *Google LLC*
@@ -58,20 +59,19 @@ New filings this cycle: 10 | SABESS-relevant: 0
 - **Wed 07/15/2026 02:49 pm** | Hearing Exhibit 106, Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Executable Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
 - **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:29 pm** | Hearing Exhibit 106, Attachment SWW-5, Long-Term Rate Forecast Model, Revised No New Large Load | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Fri 07/31/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Thu 07/30/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Wed 07/29/2026 01:53 pm** | Public Comment ((1) Email | *Comment, Public*
+- **Mon 07/27/2026 01:33 pm** | Public Comment (1) Email | *Comment, Public*
+- **Mon 07/27/2026 08:00 am** | Public Comment ((1) Email | *Comment, Public*
 - **Sun 07/26/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/24/2026 08:00 am** | JTK-1 16A-0231E PSCo Decommissioning Study w Valmont Cost Estimate | *Leslie Glustrom* ⚡ [MEDIUM]
 - **Fri 07/24/2026 08:00 am** | Request to Review Valmont Coal Plant Decommissioning Revenue Requirement | *Leslie Glustrom*
 - **Fri 07/24/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
 - **Thu 07/23/2026 11:09 am** | Public Comment (1) Email | *Comment, Public*
-- **Thu 07/23/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
-- **Tue 07/21/2026 02:27 pm** | Public Comment (1) Email | *Comment, Public*
-- **Tue 07/21/2026 11:54 am** | Public Comment (1) Email | *Comment, Public*
-- **Mon 07/20/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Mon 07/13/2026 08:00 am** | Public Comment (4) Email | *Comment, Public*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
