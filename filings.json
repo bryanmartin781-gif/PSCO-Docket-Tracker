@@ -30629,5 +30629,108 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Tue 08/04/2026 01:00 am",
+    "parsedDate": "2026-08-04T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-08-04T11:23:58.244Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 08/03/2026 08:00 am",
+    "parsedDate": "2026-08-03T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-08-04T11:23:58.244Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 08/04/2026 01:00 am",
+    "parsedDate": "2026-08-04T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-08-04T11:24:27.558Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sun 08/02/2026 01:00 am",
+    "parsedDate": "2026-08-02T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-08-04T11:24:27.558Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 08/04/2026 01:00 am",
+    "parsedDate": "2026-08-04T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-08-04T11:24:47.822Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 04/02/2026 11:55 am",
+    "parsedDate": "2026-04-02T00:00:00.000Z",
+    "title": "Commission Decision Addressing Application for Rehearing, Reargument, or Reconsideration of Decision No. C26-0096",
+    "docType": "Decision",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-08-04T11:24:47.822Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "HIGH",
+      "implications": [
+        {
+          "keyword": "commission decision",
+          "risk": "HIGH",
+          "category": "Regulatory",
+          "impact": "Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent."
+        }
+      ]
+    }
   }
 ]

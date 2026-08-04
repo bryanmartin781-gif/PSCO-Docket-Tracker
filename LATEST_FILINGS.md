@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-08-01T10:42:11.597Z
-New filings this cycle: 6 | SABESS-relevant: 0
+Last updated: 2026-08-04T11:24:48.872Z
+New filings this cycle: 6 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -49,6 +49,8 @@ New filings this cycle: 6 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Mon 08/03/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Wed 07/29/2026 03:10 pm** | C26-0498 Commission Decision Granting, In Part, and Denying, In Part, Motion for Modification, and Granting Motion for Acceptance of Late Filed Response | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Mon 07/20/2026 09:34 am** | Notice of Opposition to Motion for Acceptance of Late Filed Response | *Google LLC*
 - **Fri 07/17/2026 02:20 pm** | Response in support of Public Service Motion for Reconsideration | *Google LLC*
@@ -57,11 +59,11 @@ New filings this cycle: 6 | SABESS-relevant: 0
 - **Fri 07/17/2026 02:20 pm** | Motion for Acceptance of Late Filed Response | *Google LLC*
 - **Wed 07/15/2026 02:53 pm** | Hearing Exhibit 106, Executable Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
 - **Wed 07/15/2026 02:49 pm** | Hearing Exhibit 106, Attachment SWW-8, Flexible Transmission Large Rate Discount | *Public Service Company of Colorado* ⚡ [HIGH]
-- **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Executable Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
-- **Wed 07/15/2026 02:36 pm** | Hearing Exhibit 106, Attachment SWW-7, Long-Term Rate Forecast Model - Revised 2GW New Large Load | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Sun 08/02/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/31/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/31/2026 01:00 am** | Public Comments_3 | *Comment, Public*
@@ -70,11 +72,10 @@ New filings this cycle: 6 | SABESS-relevant: 0
 - **Wed 07/29/2026 01:53 pm** | Public Comment ((1) Email | *Comment, Public*
 - **Mon 07/27/2026 01:33 pm** | Public Comment (1) Email | *Comment, Public*
 - **Mon 07/27/2026 08:00 am** | Public Comment ((1) Email | *Comment, Public*
-- **Sun 07/26/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Sun 07/26/2026 01:00 am** | Public Comments_1 | *Comment, Public*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/24/2026 02:19 pm** | 24A-0547E, PSCo's Response to the Comments of IREC and ACE on HCA Compliance | *Public Service Company of Colorado*
 - **Wed 07/15/2026 08:29 pm** | Commission Decision Addressing Request for Extended Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Wed 07/15/2026 03:54 pm** | COMMENTS OF THE INTERSTATE RENEWABLE ENERGY COUNCIL, INC., THE
@@ -88,5 +89,4 @@ HOSTING CAPACITY ANALYSIS COMPLIANCE FILING | *Interstate Renewable Energy Counc
 - **Mon 06/29/2026 02:41 pm** | 24A-0547E, Notice of Compliance with Smart Panel Pilot Requirements | *Public Service Company of Colorado*
 - **Mon 06/29/2026 02:41 pm** | 24A-0547E, Attachment A, PSCo Smart Panel Pilot Proposal | *Public Service Company of Colorado*
 - **Mon 06/29/2026 08:44 am** | Unopposed Motion to Approve Selection of Independent Evaluator and Request to Waive Response Time | *Public Service Company of Colorado*
-- **Wed 06/24/2026 02:12 pm** | Unopposed Motion of Mission:Data Coalition to Establish Comment Period to Respond to Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 
