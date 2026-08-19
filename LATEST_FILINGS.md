@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-08-16T09:28:05.187Z
-New filings this cycle: 28 | SABESS-relevant: 6
+Last updated: 2026-08-19T09:35:16.135Z
+New filings this cycle: 25 | SABESS-relevant: 7
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 28 | SABESS-relevant: 6
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Tue 08/18/2026 04:51 pm** | Request for Leave to Reply and Reply Comments of the Coalition For Community Solar Access | *Coalition for Community Solar Access, Inc.*
 - **Fri 08/14/2026 03:51 pm** | Confidential Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
 - **Fri 08/14/2026 03:51 pm** | Attachment 1 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Fri 08/14/2026 03:51 pm** | Confidential Executable Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
@@ -31,8 +32,7 @@ New filings this cycle: 28 | SABESS-relevant: 6
 - **Fri 08/14/2026 03:08 pm** | Public Service Company of Colorado's Response to the Colorado Independent Energy Association's Additional Comment | *Public Service Company of Colorado*
 - **Fri 08/14/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Thu 08/13/2026 04:43 pm** | NOTICE OF ADDITIONAL COMMENT ON COMPLIANCE FILING AND RESPONSE TO THE COMMENTS OF THE COALITION FOR COMMUNITY SOLAR ACCESS,  AND REQUEST FOR MODIFICATION OF PSCO’S 2027 JUST TRANSITION SOLICITATION ALL-RESOURCE REQUEST FOR PROPOSAL OF THE COLORADO INDEPENDENT ENERGY ASSOCIATION | *Colorado Independent Energy Association* ⚡ [LOW]
-- **Thu 08/13/2026 08:06 am** | Notice Regarding Pre-Bid Conference | *Public Service Company of Colorado*
-- **Wed 08/12/2026 01:28 pm** | C26-0527-I Interim Commission Decision Directing Public Service Company of Colorado to Defer Issuance of Request for Proposals | *Colorado Public Utilities Commission* ⚡ [HIGH]
+- **Thu 08/13/2026 04:43 pm** | Notice of Additional Comment on Compliance Filing and Response to the Comments of the Coalition For Community Solar Access, and Request for Modification of PSCO’s 2027 Just Transition Solicitation All-Resource Request for Proposal of the Colorado Independent Energy Association | *Colorado Independent Energy Association* ⚡ [LOW]
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,32 +49,33 @@ New filings this cycle: 28 | SABESS-relevant: 6
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 08/18/2026 09:55 am** | Hearing Exhibit 800, Answer Testimony of Cedar Blazek | *City and County of Denver*
+- **Tue 08/18/2026 09:55 am** | Certificate of Service | *City and County of Denver*
+- **Tue 08/18/2026 09:55 am** | Hearing Exhibit 800, Affidavit | *City and County of Denver*
+- **Tue 08/18/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Mon 08/17/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
+- **Mon 08/17/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/15/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 08/14/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Wed 08/12/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/11/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Mon 08/10/2026 04:22 pm** | Public Comment (2) Email | *Comment, Public*
-- **Mon 08/10/2026 02:45 pm** | Google LLC’s Unopposed Motion to Substitute Pro Hac Vice Association for Andrew O. Schulte and Frank A. Caro and to Admit Jared R. Jevons Pro Hac Vice, and Notice of Withdrawal of Counsel | *Google LLC*
-- **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Tue 08/04/2026 01:00 am** | Public Comments_1 | *Comment, Public*
-- **Mon 08/03/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Wed 07/29/2026 03:10 pm** | C26-0498 Commission Decision Granting, In Part, and Denying, In Part, Motion for Modification, and Granting Motion for Acceptance of Late Filed Response | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
-- **Fri 08/14/2026 01:20 pm** | PUBLIC SERVICE COMPANY OF COLORADO'S STATEMENT OF TECHNICAL DIFFICULTY WITH THE COMMISSION'S E-FILING SYSTEM | *Public Service Company of Colorado*
-- **Fri 08/14/2026 01:20 pm** | 25AL-0494E, Executable Attachment A, August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Thu 08/13/2026 04:38 pm** | 25AL-0494E, Confidential Attachment D, PCCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Thu 08/13/2026 04:34 pm** | 25AL-0494E, Confidential Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Thu 08/13/2026 04:34 pm** | 25AL-0494E, Attachment F, Redlined Rate Tariff Sheets | *Public Service Company of Colorado*
-- **Thu 08/13/2026 04:34 pm** | 25AL-0494E, Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Thu 08/13/2026 04:32 pm** | 25AL-0494E, Attachment C, Bill Impacts of August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Thu 08/13/2026 04:32 pm** | 25AL-0494E, Attachment D, PCCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Thu 08/13/2026 04:26 pm** | 25AL-0494E, Attachment A, August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Thu 08/13/2026 04:26 pm** | 25AL-0494E, Attachment B, Comparison of Aug. 5, 2026 Deliberations COS and Settlement COS | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment D, PCCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment F, Redlined Rate Tariff Sheets | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Confidential Attachment D, PCCA Rate Model, August 5, 2026 Deliberations_FINAL | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Attachment C, Bill Impacts Associated with August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Executable Attachment B, Comparison of August 5, 2026 Deliberations Cost of Service and Settlement Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Executable Attachment C, Bill Impacts Associated with August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Confidential Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
+- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Executable Attachment A, August 5, 2026 Deliberations Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 08/18/2026 02:51 pm** | 25AL-0494E, Revised Confidential Executable Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 08/18/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/11/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 08/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -88,5 +89,4 @@ HOSTING CAPACITY ANALYSIS COMPLIANCE FILING | *Interstate Renewable Energy Counc
 - **Thu 07/09/2026 08:22 am** | Denver's Comments on Smart Panel Pilot | *City and County of Denver*
 - **Mon 07/06/2026 08:00 am** | ABB - Proceeding No. 24A-0547E Smart Panel Pilot Comments | *Jonathon Gellings*
 - **Wed 07/01/2026 03:30 pm** | 24A-0574E, Notice of Compliance Filing | *Public Service Company of Colorado*
-- **Mon 06/29/2026 02:41 pm** | 24A-0547E, Notice of Compliance with Smart Panel Pilot Requirements | *Public Service Company of Colorado*
 

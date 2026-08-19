@@ -1,49 +1,56 @@
 # SABESS Implications Report
 
-Last updated: 2026-08-16T09:28:05.190Z
+Last updated: 2026-08-19T09:35:16.137Z
 
-Found 6 SABESS-relevant filing(s) this cycle.
+Found 7 SABESS-relevant filing(s) this cycle.
 
-## MEDIUM Risk (5)
+## MEDIUM Risk (6)
 
-### 25AL-0494E, Executable Attachment A, August 5, 2026 Deliberations Cost of Service
+### 25AL-0494E, Revised Attachment C, Bill Impacts Associated with August 5, 2026 Deliberations Cost of Service
 - **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
-- **Date:** Fri 08/14/2026 01:20 pm
+- **Date:** Tue 08/18/2026 02:53 pm
 - **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
 
-### 25AL-0494E, Attachment C, Bill Impacts of August 5, 2026 Deliberations Cost of Service
+### 25AL-0494E, Revised Executable Attachment B, Comparison of August 5, 2026 Deliberations Cost of Service and Settlement Cost of Service
 - **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
-- **Date:** Thu 08/13/2026 04:32 pm
+- **Date:** Tue 08/18/2026 02:53 pm
 - **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
 
-### 25AL-0494E, Attachment A, August 5, 2026 Deliberations Cost of Service
+### 25AL-0494E, Revised Executable Attachment C, Bill Impacts Associated with August 5, 2026 Deliberations Cost of Service
 - **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
-- **Date:** Thu 08/13/2026 04:26 pm
+- **Date:** Tue 08/18/2026 02:53 pm
 - **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
 
-### 25AL-0494E, Executable Attachment B, Comparison of August 5, 2026 Deliberations Cost of Service and Settlement Cost of Service
+### 25AL-0494E, Revised Executable Attachment A, August 5, 2026 Deliberations Cost of Service
 - **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
-- **Date:** Thu 08/13/2026 04:22 pm
+- **Date:** Tue 08/18/2026 02:53 pm
 - **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
 
-### 25AL-0494E, Executable Attachment C, Bill Impacts Associated with August 5, 2026 Deliberations Cost of Service
+### 25AL-0494E, Revised Attachment B, Comparison of August 5, 2026 Deliberations Cost of Service and Settlement Cost of Service
 - **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
-- **Date:** Thu 08/13/2026 04:22 pm
+- **Date:** Tue 08/18/2026 02:50 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
+
+### 25AL-0494E, Revised Attachment A, August 5, 2026 Deliberations Cost of Service
+- **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
+- **Date:** Tue 08/18/2026 02:50 pm
 - **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
 
 ## LOW Risk (1)
 
-### NOTICE OF ADDITIONAL COMMENT ON COMPLIANCE FILING AND RESPONSE TO THE COMMENTS OF THE COALITION FOR COMMUNITY SOLAR ACCESS,  AND REQUEST FOR MODIFICATION OF PSCO’S 2027 JUST TRANSITION SOLICITATION ALL-RESOURCE REQUEST FOR PROPOSAL OF THE COLORADO INDEPENDENT ENERGY ASSOCIATION
+### Notice of Additional Comment on Compliance Filing and Response to the Comments of the Coalition For Community Solar Access, and Request for Modification of PSCO’s 2027 Just Transition Solicitation All-Resource Request for Proposal of the Colorado Independent Energy Association
 - **Docket:** 24A-0442E: Public Service Company - 2024 JTS
 - **Date:** Thu 08/13/2026 04:43 pm
 - **Submitter:** Colorado Independent Energy Association
@@ -52,5 +59,5 @@ Found 6 SABESS-relevant filing(s) this cycle.
 
 ## Risk Categories This Cycle
 
-- Economics: 5 mention(s)
+- Economics: 6 mention(s)
 - Policy: 1 mention(s)
