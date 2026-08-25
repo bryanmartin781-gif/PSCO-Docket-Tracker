@@ -1,83 +1,59 @@
 # SABESS Implications Report
 
-Last updated: 2026-08-22T09:28:11.059Z
+Last updated: 2026-08-25T09:36:35.200Z
 
-Found 9 SABESS-relevant filing(s) this cycle.
+Found 6 SABESS-relevant filing(s) this cycle.
 
-## CRITICAL Risk (1)
+## CRITICAL Risk (3)
 
-### Hearing Exhibit 600, Executable Attachment KMH-3HC, Supp Att CC3-1.A1 - Large Load Forecast - July 2026
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 01:44 pm
-- **Submitter:** Colorado Energy Office
+### Highly Confidential Executable Appendix B, Large Load Forecast - August 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Mon 08/24/2026 03:06 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+
+### Highly Confidential Appendix B, Large Load Forecast - August 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Mon 08/24/2026 03:06 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+
+### Appendix B, Large Load Forecast - August 2026 (Public Slip Sheet)
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Mon 08/24/2026 03:06 pm
+- **Submitter:** Public Service Company of Colorado
 - **Implications:**
   - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
 
 ## HIGH Risk (2)
 
-### Hearing Exhibit 1601, Attachment SB-3 - ESIG-Large-Loads-Interconnection-Process-report-2026a
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 04:47 pm
-- **Submitter:** United Power, Inc.
+### C26-0554 Commission Decision Approving Settlement Agreement with Modifications and Additional Requirements, Permanently Suspending Filed Tariff Sheets, Establishing Rates, and Ordering Filing of Compliance Tariffs
+- **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
+- **Date:** Mon 08/24/2026 09:13 am
+- **Submitter:** Colorado Public Utilities Commission
 - **Implications:**
-  - **interconnection** [HIGH]: Interconnection studies, provisional service, or headroom constraints directly impact Fort Lupton SABESS.
+  - **commission decision** [HIGH]: Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent.
 
-### Hearing Exhibit 1600, Attachment JA-3 - Transmission to Load Interconnection System Impact Study Agreement
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 03:25 pm
-- **Submitter:** United Power, Inc.
+### C26-0369-I Interim Commission Decision Scheduling Pre-Hearing Conference
+- **Docket:** 25AL-0494E: Public Service Company AL 2006-Tariff 8 - Electric Rate Case
+- **Date:** Wed 06/03/2026 12:37 pm
+- **Submitter:** Colorado Public Utilities Commission
 - **Implications:**
-  - **transmission** [HIGH]: Transmission constraints in northern pocket (Fort Lupton) affect interconnection timing and headroom.
-  - **interconnection** [HIGH]: Interconnection studies, provisional service, or headroom constraints directly impact Fort Lupton SABESS.
+  - **commission decision** [HIGH]: Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent.
 
-## MEDIUM Risk (6)
+## MEDIUM Risk (1)
 
-### HE 700, Attachment LHS-23_PUC Oregon Investigation into Marginal Cost Study
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 02:43 pm
-- **Submitter:** Office of Utility Consumer Advocate
+### Monthly Comanche Report - August 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Mon 08/24/2026 03:06 pm
+- **Submitter:** Public Service Company of Colorado
 - **Implications:**
-  - **cost** [MEDIUM]: Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation.
-
-### Hearing Exhibit 700, Attachment LHS-17_SEIA Solar and Storage, Fastest to Build
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 02:33 pm
-- **Submitter:** Office of Utility Consumer Advocate
-- **Implications:**
-  - **storage** [MEDIUM]: Storage procurement volumes and bid economics shape competitive landscape.
-
-### Hearing Exhibit 700, Attachment LHS-16_Pathways to Commercial Liftoff Long Duration Energy Storage Opportunities
-- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
-- **Date:** Wed 08/19/2026 02:31 pm
-- **Submitter:** Office of Utility Consumer Advocate
-- **Implications:**
-  - **storage** [MEDIUM]: Storage procurement volumes and bid economics shape competitive landscape.
-
-### Comments of The Interstate Renewable Energy Council, Inc., The Colorado Solar and Storage Association, The Solar Energy Industries Association, and The Coalition For Community Solar Access, in Response To Public Service Company of Colorado’s Hosting Capacity Analysis Compliance Filing
-- **Docket:** 24A-0547E: 24A-0547E Public Service Company - Electric - DSP 2025-2029
-- **Date:** Wed 07/15/2026 03:54 pm
-- **Submitter:** Unknown
-- **Implications:**
-  - **storage** [MEDIUM]: Storage procurement volumes and bid economics shape competitive landscape.
-
-### Comments of the Interstate Renewable Energy Council, Inc., The Colorado Solar and Storage Association, The Solar Energy Industries Association, and The Coalition For Community Solar Access, in Response to Public Service Company of Colorado’s Hosting Capacity Analysis Compliance Filing
-- **Docket:** 24A-0547E: 24A-0547E Public Service Company - Electric - DSP 2025-2029
-- **Date:** Wed 05/13/2026 12:36 pm
-- **Submitter:** Unknown
-- **Implications:**
-  - **storage** [MEDIUM]: Storage procurement volumes and bid economics shape competitive landscape.
-
-### The Colorado Solar and Storage Association, Solar Energy Industries Association, and Coalition For Community Solar Access Joined by the Interstate Renewable Energy Council Preliminary Comments on March 16, 2026 Hosting Capacity Analysis Compliance Report
-- **Docket:** 24A-0547E: 24A-0547E Public Service Company - Electric - DSP 2025-2029
-- **Date:** Wed 04/15/2026 04:04 pm
-- **Submitter:** Coalition for Community Solar Access, Inc.
-- **Implications:**
-  - **storage** [MEDIUM]: Storage procurement volumes and bid economics shape competitive landscape.
+  - **comanche** [MEDIUM]: Comanche 3 repair timeline affects near-term capacity need and JTS Phase II urgency.
 
 ## Risk Categories This Cycle
 
-- Market: 5 mention(s)
-- Site-Specific: 2 mention(s)
-- Infrastructure: 1 mention(s)
-- Economics: 1 mention(s)
-- Procurement: 1 mention(s)
+- Procurement: 3 mention(s)
+- Regulatory: 2 mention(s)
+- Timeline: 1 mention(s)

@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-08-22T09:28:11.056Z
-New filings this cycle: 309 | SABESS-relevant: 9
+Last updated: 2026-08-25T09:36:35.197Z
+New filings this cycle: 17 | SABESS-relevant: 6
 
 ## Background Context
 
@@ -36,19 +36,22 @@ New filings this cycle: 309 | SABESS-relevant: 9
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Mon 08/24/2026 03:06 pm** | Monthly Comanche Report - August 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Mon 08/24/2026 03:06 pm** | Appendix A, Sections 1-4 Supporting Appendices - August 2026 | *Public Service Company of Colorado*
+- **Mon 08/24/2026 03:06 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - August 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Mon 08/24/2026 03:06 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - August 2026 | *Public Service Company of Colorado*
+- **Mon 08/24/2026 03:06 pm** | Highly Confidential Appendix B, Large Load Forecast - August 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Mon 08/24/2026 03:06 pm** | Appendix B, Large Load Forecast - August 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Mon 08/24/2026 03:06 pm** | Confidential Executable Appendix C, Bilateral Purchases - August 2026 | *Public Service Company of Colorado*
+- **Mon 08/24/2026 03:06 pm** | Confidential Appendix C, Bilateral Purchases - August 2026 | *Public Service Company of Colorado*
+- **Mon 08/24/2026 03:06 pm** | Appendix C, Bilateral Purchases - August 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Mon 07/27/2026 08:31 am** | Notice of Withdrawal Frances Koncilja City of Pueblo | *City of Pueblo*
-- **Thu 07/23/2026 12:04 pm** | Monthly Comanche Report - July 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Thu 07/23/2026 12:04 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - July 2026 | *Public Service Company of Colorado*
-- **Thu 07/23/2026 12:04 pm** | Appendix A, Sections 1-4 Supporting Appendices - July 2026 | *Public Service Company of Colorado*
-- **Thu 07/23/2026 12:04 pm** | Confidential Appendix B, Large Load Forecast - July 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Thu 07/23/2026 12:04 pm** | Confidential Executable Appendix B, Large Load Forecast - July 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Thu 07/23/2026 12:04 pm** | Appendix B, Large Load Forecast - July 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Thu 07/02/2026 01:48 pm** | C26-0439-I Commission Decision Granting Unopposed Motion for Variance from Paragraph 74 of Decision No. C25-0892 Regarding Deadline for Monthly Reporting | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Thu 06/25/2026 03:09 pm** | Public Service Company of Colorado's Unopposed Motion for a Variance from Paragraph 74 of Decision No. C25-0892 and Request for Waiver of Response Time | *Public Service Company of Colorado*
-- **Mon 06/15/2026 03:06 pm** | Monthly Comanche Report - June 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 08/25/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Tue 08/25/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
+- **Mon 08/24/2026 01:00 am** | Public Comments | *Unknown*
 - **Fri 08/21/2026 03:14 pm** | Hearing Exhibit 1700, Answer Testimony of Matthew A. Lehrman - Affidavit of Matthew A. Lehrman | *City of Boulder*
 - **Wed 08/19/2026 04:59 pm** | Certificate of Service | *Western Resource Advocates*
 - **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-19, PSCO Response to WRA1-29 | *Western Resource Advocates*
@@ -56,22 +59,19 @@ New filings this cycle: 309 | SABESS-relevant: 9
 - **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-25, PSCO Response to WRA3-8 | *Western Resource Advocates*
 - **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-22, PSCO Response to WRA1-32 | *Western Resource Advocates*
 - **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-23, PSCO Response to WRA1-33 | *Western Resource Advocates*
-- **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-24, PSCO Response to CC1-3 | *Western Resource Advocates*
-- **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-18, PSCO Response to Discovery Attachment WRA1-29.A1 | *Western Resource Advocates*
-- **Wed 08/19/2026 04:59 pm** | Hearing Exhibit 900, Attachment CV-21, PSCO Response to CC2-5 | *Western Resource Advocates*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Tue 08/25/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Mon 08/24/2026 12:14 pm** | Attachment A to Decision No. C26-0554-I | *Colorado Public Utilities Commission*
+- **Mon 08/24/2026 09:13 am** | C26-0554 Commission Decision Approving Settlement Agreement with Modifications and Additional Requirements, Permanently Suspending Filed Tariff Sheets, Establishing Rates, and Ordering Filing of Compliance Tariffs | *Colorado Public Utilities Commission* ⚡ [HIGH]
+- **Sun 08/23/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/22/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 08/21/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 08/21/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/20/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 08/19/2026 12:02 pm** | Public Comment (1) Email | *Comment, Public*
 - **Wed 08/19/2026 11:33 am** | Public Comment (1) Email | *Comment, Public*
-- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment D, PCCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment E, TCA Rate Model, August 5, 2026 Deliberations | *Public Service Company of Colorado*
-- **Tue 08/18/2026 02:57 pm** | 25AL-0494E, Revised Attachment F, Redlined Rate Tariff Sheets | *Public Service Company of Colorado*
-- **Tue 08/18/2026 02:53 pm** | 25AL-0494E, Revised Confidential Attachment D, PCCA Rate Model, August 5, 2026 Deliberations_FINAL | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
