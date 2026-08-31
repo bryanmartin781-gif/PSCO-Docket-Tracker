@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-08-28T20:45:39.818Z
-New filings this cycle: 22 | SABESS-relevant: 2
+Last updated: 2026-08-31T16:46:37.312Z
+New filings this cycle: 3 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -49,6 +49,8 @@ New filings this cycle: 22 | SABESS-relevant: 2
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Fri 08/28/2026 09:44 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 08/28/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
 - **Thu 08/27/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
@@ -57,11 +59,10 @@ New filings this cycle: 22 | SABESS-relevant: 2
 - **Wed 08/26/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
 - **Tue 08/25/2026 05:28 pm** | Public Comment (5) Email | *Comment, Public*
 - **Tue 08/25/2026 04:24 pm** | Public Comment (9) Email | *Comment, Public*
-- **Tue 08/25/2026 08:00 am** | Public Comment (3) Email | *Comment, Public*
-- **Tue 08/25/2026 08:00 am** | Public Comment (3) Transcribed Voice Message | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Sat 08/29/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 10:36 am** | 25AL-0494E, Corrected Notice of Compliance Filing | *Public Service Company of Colorado*
 - **Wed 08/26/2026 04:47 pm** | Attachment 1 to Advice Letter 2031 - Electric | *Public Service Company of Colorado*
 - **Wed 08/26/2026 04:47 pm** | Clean Tariffs to Advice Letter 2031 - Electric | *Public Service Company of Colorado*
@@ -72,7 +73,6 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Mon 08/24/2026 12:14 pm** | Attachment A to Decision No. C26-0554-I | *Colorado Public Utilities Commission*
 - **Mon 08/24/2026 09:13 am** | C26-0554 Commission Decision Approving Settlement Agreement with Modifications and Additional Requirements, Permanently Suspending Filed Tariff Sheets, Establishing Rates, and Ordering Filing of Compliance Tariffs | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Sun 08/23/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Sat 08/22/2026 01:00 am** | Public Comments | *Comment, Public*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 

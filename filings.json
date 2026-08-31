@@ -37925,5 +37925,53 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Mon 08/31/2026 01:00 am",
+    "parsedDate": "2026-08-31T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-08-31T16:45:43.127Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 08/28/2026 09:44 am",
+    "parsedDate": "2026-08-28T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-08-31T16:45:43.127Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sat 08/29/2026 01:00 am",
+    "parsedDate": "2026-08-29T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-08-31T16:46:14.846Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
