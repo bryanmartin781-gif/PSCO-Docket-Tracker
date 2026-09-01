@@ -1,6 +1,6 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-08-31T16:46:37.312Z
+Last updated: 2026-09-01T13:59:20.907Z
 New filings this cycle: 3 | SABESS-relevant: 0
 
 ## Background Context
@@ -49,6 +49,7 @@ New filings this cycle: 3 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 08/28/2026 09:44 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 08/28/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -58,10 +59,10 @@ New filings this cycle: 3 | SABESS-relevant: 0
 - **Wed 08/26/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 08/26/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
 - **Tue 08/25/2026 05:28 pm** | Public Comment (5) Email | *Comment, Public*
-- **Tue 08/25/2026 04:24 pm** | Public Comment (9) Email | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/29/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 10:36 am** | 25AL-0494E, Corrected Notice of Compliance Filing | *Public Service Company of Colorado*
 - **Wed 08/26/2026 04:47 pm** | Attachment 1 to Advice Letter 2031 - Electric | *Public Service Company of Colorado*
@@ -72,10 +73,10 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Tue 08/25/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Mon 08/24/2026 12:14 pm** | Attachment A to Decision No. C26-0554-I | *Colorado Public Utilities Commission*
 - **Mon 08/24/2026 09:13 am** | C26-0554 Commission Decision Approving Settlement Agreement with Modifications and Additional Requirements, Permanently Suspending Filed Tariff Sheets, Establishing Rates, and Ordering Filing of Compliance Tariffs | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Sun 08/23/2026 01:00 am** | Public Comments | *Comment, Public*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 12:15 pm** | Errata Notice for Decision No. C26-0476 | *Colorado Public Utilities Commission*
 - **Thu 08/20/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/18/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -85,9 +86,4 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Fri 07/24/2026 02:19 pm** | 24A-0547E, PSCo's Response to the Comments of IREC and ACE on HCA Compliance | *Public Service Company of Colorado*
 - **Fri 07/24/2026 02:19 pm** | Public Service Company of Colorado's Response to the Comments of IREC and ACE on Public Service's Hosting Capacity Analysis Compliance Filing | *Public Service Company of Colorado*
 - **Wed 07/15/2026 08:29 pm** | Commission Decision Addressing Request for Extended Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Wed 07/15/2026 03:54 pm** | COMMENTS OF THE INTERSTATE RENEWABLE ENERGY COUNCIL, INC., THE
-COLORADO SOLAR AND STORAGE ASSOCIATION, THE SOLAR ENERGY
-INDUSTRIES ASSOCIATION, AND THE COALITION FOR COMMUNITY SOLAR
-ACCESS, IN RESPONSE TO PUBLIC SERVICE COMPANY OF COLORADO’S
-HOSTING CAPACITY ANALYSIS COMPLIANCE FILING | *Interstate Renewable Energy Council* ⚡ [MEDIUM]
 
