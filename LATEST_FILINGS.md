@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-07T14:51:36.823Z
-New filings this cycle: 1 | SABESS-relevant: 0
+Last updated: 2026-09-10T13:22:36.228Z
+New filings this cycle: 8 | SABESS-relevant: 2
 
 ## Background Context
 
@@ -36,6 +36,9 @@ New filings this cycle: 1 | SABESS-relevant: 0
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Wed 09/09/2026 11:15 am** | Notice Regarding Comanche Unit 3 Operation | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 09/08/2026 12:31 pm** | Motion of Public Service Company of Colorado for Leave to Respond to Holy Cross Energy Association, Inc. Regarding Motion for Extraordinary Protection | *Public Service Company of Colorado*
+- **Tue 09/08/2026 12:31 pm** | Attachment 1 - Public Service Conferral Email | *Public Service Company of Colorado*
 - **Tue 09/01/2026 10:48 am** | Response of Holy Cross Electric Association, Inc. to Motion of Public Service Company of Colorado for Extraordinary Protection of Highly Confidential Information | *Holy Cross Energy*
 - **Tue 08/25/2026 02:46 pm** | Motion of Public Service Company of Colorado for Extraordinary Protection of Highly Confidential Information | *Public Service Company of Colorado*
 - **Tue 08/25/2026 02:46 pm** | Attachment C - Pascucci Affidavit | *Public Service Company of Colorado*
@@ -43,12 +46,11 @@ New filings this cycle: 1 | SABESS-relevant: 0
 - **Tue 08/25/2026 02:46 pm** | Attachment A (NDA - Attorney) | *Public Service Company of Colorado*
 - **Mon 08/24/2026 03:06 pm** | Monthly Comanche Report - August 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Mon 08/24/2026 03:06 pm** | Appendix A, Sections 1-4 Supporting Appendices - August 2026 | *Public Service Company of Colorado*
-- **Mon 08/24/2026 03:06 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - August 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Mon 08/24/2026 03:06 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - August 2026 | *Public Service Company of Colorado*
-- **Mon 08/24/2026 03:06 pm** | Highly Confidential Appendix B, Large Load Forecast - August 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 09/08/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
+- **Fri 09/04/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 09/04/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 09/03/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 09/01/2026 04:36 pm** | Public Comment (1) Email | *Comment, Public*
@@ -57,11 +59,11 @@ New filings this cycle: 1 | SABESS-relevant: 0
 - **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 08/28/2026 09:44 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 08/28/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Thu 08/27/2026 08:00 am** | Public Comment (1) Transcribed Voice Message | *Comment, Public*
-- **Thu 08/27/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Wed 09/09/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Tue 09/08/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 09/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/29/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -71,11 +73,10 @@ New filings this cycle: 1 | SABESS-relevant: 0
 - **Wed 08/26/2026 04:47 pm** | Public Service Company - AL 2031-Tariff 8-Base rate changes | *Public Service Company of Colorado*
 - **Wed 08/26/2026 04:18 pm** | NOTICE OF COMPLIANCE FILING
 BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
-- **Tue 08/25/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Mon 08/24/2026 12:14 pm** | Attachment A to Decision No. C26-0554-I | *Colorado Public Utilities Commission*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/01/2026 10:35 am** | Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 12:15 pm** | Errata Notice for Decision No. C26-0476 | *Colorado Public Utilities Commission*
@@ -85,5 +86,4 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Wed 08/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 07/24/2026 02:19 pm** | 24A-0547E, PSCo's Response to the Comments of IREC and ACE on HCA Compliance | *Public Service Company of Colorado*
-- **Fri 07/24/2026 02:19 pm** | Public Service Company of Colorado's Response to the Comments of IREC and ACE on Public Service's Hosting Capacity Analysis Compliance Filing | *Public Service Company of Colorado*
 

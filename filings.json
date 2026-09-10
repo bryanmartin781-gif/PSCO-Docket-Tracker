@@ -38156,5 +38156,147 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Wed 09/09/2026 11:15 am",
+    "parsedDate": "2026-09-09T00:00:00.000Z",
+    "title": "Notice Regarding Comanche Unit 3 Operation",
+    "docType": "Notification",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-10T13:21:35.652Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "MEDIUM",
+      "implications": [
+        {
+          "keyword": "comanche",
+          "risk": "MEDIUM",
+          "category": "Timeline",
+          "impact": "Comanche 3 repair timeline affects near-term capacity need and JTS Phase II urgency."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Tue 09/08/2026 12:31 pm",
+    "parsedDate": "2026-09-08T00:00:00.000Z",
+    "title": "Motion of Public Service Company of Colorado for Leave to Respond to Holy Cross Energy Association, Inc. Regarding Motion for Extraordinary Protection",
+    "docType": "Motion",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-10T13:21:35.652Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/08/2026 12:31 pm",
+    "parsedDate": "2026-09-08T00:00:00.000Z",
+    "title": "Attachment 1 - Public Service Conferral Email",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-10T13:21:35.652Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/08/2026 08:00 am",
+    "parsedDate": "2026-09-08T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-10T13:21:46.817Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 09/04/2026 08:00 am",
+    "parsedDate": "2026-09-04T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-10T13:21:46.817Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/09/2026 01:00 am",
+    "parsedDate": "2026-09-09T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-09-10T13:22:14.951Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/08/2026 01:00 am",
+    "parsedDate": "2026-09-08T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25AL-0494E",
+    "proceedingName": "Public Service Company AL 2006-Tariff 8 - Electric Rate Case",
+    "fetchedAt": "2026-09-10T13:22:14.951Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/08/2026 04:17 pm",
+    "parsedDate": "2026-09-08T00:00:00.000Z",
+    "title": "C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program",
+    "docType": "Decision",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-09-10T13:22:35.173Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "HIGH",
+      "implications": [
+        {
+          "keyword": "commission decision",
+          "risk": "HIGH",
+          "category": "Regulatory",
+          "impact": "Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent."
+        }
+      ]
+    }
   }
 ]
