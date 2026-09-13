@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-10T13:22:36.228Z
-New filings this cycle: 8 | SABESS-relevant: 2
+Last updated: 2026-09-13T13:43:12.860Z
+New filings this cycle: 4 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -23,6 +23,8 @@ New filings this cycle: 8 | SABESS-relevant: 2
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Fri 09/11/2026 04:43 pm** | Notice of Staff Filing of Independent Evaluator's Draft Bidder Survey | *Colorado Public Utilities Commission*
+- **Fri 09/11/2026 04:43 pm** | Accion Bidder Survey | *Colorado Public Utilities Commission*
 - **Wed 09/02/2026 11:24 am** | Notice Regarding Just Transition Solicitation Base Request for Proposals Issuance | *Public Service Company of Colorado* ⚡ [LOW]
 - **Wed 08/26/2026 04:20 pm** | C26-0548-I Interim Commission Decision Granting Requests to Modify Request for Proposal | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 08/21/2026 12:31 pm** | C26-0547-I Interim Commission Decision Granting, with Clarifications, Motion to Approve Jointly Proposed Independent Evaluator | *Colorado Public Utilities Commission* ⚡ [HIGH]
@@ -31,8 +33,6 @@ New filings this cycle: 8 | SABESS-relevant: 2
 - **Fri 08/14/2026 03:51 pm** | Confidential Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
 - **Fri 08/14/2026 03:51 pm** | Attachment 1 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Fri 08/14/2026 03:51 pm** | Confidential Executable Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
-- **Fri 08/14/2026 03:47 pm** | Public Service Company of Colorado, Trial Staff of the Commission, and the Colorado Energy Office Joint Reply to Comments Submitted by the Coalition for Community Solar Access | *Public Service Company of Colorado*
-- **Fri 08/14/2026 03:47 pm** | Confidential Public Service Company of Colorado, Trial Staff of the Commission, and the Colorado Energy Office Joint Reply to Comments Submitted by the Coalition for Community Solar Access | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,6 +49,7 @@ New filings this cycle: 8 | SABESS-relevant: 2
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Thu 09/10/2026 01:05 pm** | CEO Notice of Withdrawal of Counsel | *Colorado Energy Office*
 - **Tue 09/08/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 09/04/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 09/04/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -58,7 +59,6 @@ New filings this cycle: 8 | SABESS-relevant: 2
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 08/28/2026 09:44 am** | Public Comment (1) Email | *Comment, Public*
-- **Fri 08/28/2026 01:00 am** | Public Comments | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -76,6 +76,7 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Thu 09/10/2026 04:49 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/01/2026 10:35 am** | Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -85,5 +86,4 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Tue 08/11/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 08/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Fri 07/24/2026 02:19 pm** | 24A-0547E, PSCo's Response to the Comments of IREC and ACE on HCA Compliance | *Public Service Company of Colorado*
 
