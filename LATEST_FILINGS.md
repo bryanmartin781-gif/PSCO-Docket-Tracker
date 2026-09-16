@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-13T13:43:12.860Z
-New filings this cycle: 4 | SABESS-relevant: 1
+Last updated: 2026-09-16T14:05:52.908Z
+New filings this cycle: 7 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -10,6 +10,8 @@ New filings this cycle: 4 | SABESS-relevant: 1
 
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
+- **Tue 09/15/2026 12:54 pm** | September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
+- **Tue 09/15/2026 12:54 pm** | Highly Confidential September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | Highly Confidential August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:37 am** | Highly Confidential Attachment D | *Public Service Company of Colorado*
@@ -18,8 +20,6 @@ New filings this cycle: 4 | SABESS-relevant: 1
 - **Fri 08/07/2026 09:20 am** | Highly Confidential Attachment C (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:06 am** | Highly Confidential Attachment B | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:06 am** | Highly Confidential Attachment B (Public Slip Sheet) | *Public Service Company of Colorado*
-- **Fri 08/07/2026 09:00 am** | Quarterly Status Report on Independent Auditor Findings 2026 Quarter 2 - Clean Energy Plan Delivery Plan | *Public Service Company of Colorado*
-- **Fri 08/07/2026 09:00 am** | Highly Confidential Attachment A - Executive Summary Report | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
@@ -49,6 +49,7 @@ New filings this cycle: 4 | SABESS-relevant: 1
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Mon 09/14/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Thu 09/10/2026 01:05 pm** | CEO Notice of Withdrawal of Counsel | *Colorado Energy Office*
 - **Tue 09/08/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Fri 09/04/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
@@ -58,21 +59,19 @@ New filings this cycle: 4 | SABESS-relevant: 1
 - **Tue 09/01/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Fri 08/28/2026 09:44 am** | Public Comment (1) Email | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Mon 09/14/2026 04:05 pm** | Application for Rehearing, Reargument, or Reconsideration of Energy Outreach Colorado | *Energy Outreach Colorado*
+- **Mon 09/14/2026 03:27 pm** | Joint Application of Settling Parties for Rehearing, Reargument, or Reconsideration of Decision No. C26-0554 | *Public Service Company of Colorado*
+- **Mon 09/14/2026 03:08 pm** | Application for Rehearing, Reargument, or Reconsideration of the Colorado Office of the Utility Consumer Advocate | *Office of Utility Consumer Advocate*
+- **Mon 09/14/2026 11:11 am** | Trial Staff's Application for Rehearing, Reargument, or Reconsideration (RRR) | *Colorado Public Utilities Commission*
 - **Wed 09/09/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 09/08/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 09/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/29/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 10:36 am** | 25AL-0494E, Corrected Notice of Compliance Filing | *Public Service Company of Colorado*
-- **Wed 08/26/2026 04:47 pm** | Attachment 1 to Advice Letter 2031 - Electric | *Public Service Company of Colorado*
-- **Wed 08/26/2026 04:47 pm** | Clean Tariffs to Advice Letter 2031 - Electric | *Public Service Company of Colorado*
-- **Wed 08/26/2026 04:47 pm** | Public Service Company - AL 2031-Tariff 8-Base rate changes | *Public Service Company of Colorado*
-- **Wed 08/26/2026 04:18 pm** | NOTICE OF COMPLIANCE FILING
-BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
