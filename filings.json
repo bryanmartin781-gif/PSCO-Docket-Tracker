@@ -38481,5 +38481,28 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Fri 09/18/2026 02:20 pm",
+    "parsedDate": "2026-09-18T00:00:00.000Z",
+    "title": "C26-0610 Commission Decision Granting Motion for Extraordinary Protection and Denying Motion for Leave to Respond",
+    "docType": "Decision",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-19T12:55:04.351Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "HIGH",
+      "implications": [
+        {
+          "keyword": "commission decision",
+          "risk": "HIGH",
+          "category": "Regulatory",
+          "impact": "Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent."
+        }
+      ]
+    }
   }
 ]

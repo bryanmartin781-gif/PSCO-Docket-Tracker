@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-16T14:05:52.908Z
-New filings this cycle: 7 | SABESS-relevant: 0
+Last updated: 2026-09-19T12:56:04.747Z
+New filings this cycle: 1 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -36,6 +36,7 @@ New filings this cycle: 7 | SABESS-relevant: 0
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Fri 09/18/2026 02:20 pm** | C26-0610 Commission Decision Granting Motion for Extraordinary Protection and Denying Motion for Leave to Respond | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Wed 09/09/2026 11:15 am** | Notice Regarding Comanche Unit 3 Operation | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Tue 09/08/2026 12:31 pm** | Motion of Public Service Company of Colorado for Leave to Respond to Holy Cross Energy Association, Inc. Regarding Motion for Extraordinary Protection | *Public Service Company of Colorado*
 - **Tue 09/08/2026 12:31 pm** | Attachment 1 - Public Service Conferral Email | *Public Service Company of Colorado*
@@ -45,7 +46,6 @@ New filings this cycle: 7 | SABESS-relevant: 0
 - **Tue 08/25/2026 02:46 pm** | Attachment B (NDA - SME) | *Public Service Company of Colorado*
 - **Tue 08/25/2026 02:46 pm** | Attachment A (NDA - Attorney) | *Public Service Company of Colorado*
 - **Mon 08/24/2026 03:06 pm** | Monthly Comanche Report - August 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Mon 08/24/2026 03:06 pm** | Appendix A, Sections 1-4 Supporting Appendices - August 2026 | *Public Service Company of Colorado*
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
