@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-19T12:56:04.747Z
-New filings this cycle: 1 | SABESS-relevant: 1
+Last updated: 2026-09-22T13:58:00.504Z
+New filings this cycle: 8 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -49,16 +49,16 @@ New filings this cycle: 1 | SABESS-relevant: 1
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 09/22/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Mon 09/21/2026 12:06 pm** | Western Resource Advocates’ Notice of Revised Answer Testimony Attachments | *Western Resource Advocates*
+- **Mon 09/21/2026 12:06 pm** | Hearing Exhibit 900, Attachment CV-13, Rev. 1 | *Western Resource Advocates*
+- **Mon 09/21/2026 12:06 pm** | Hearing Exhibit 900, Attachment CV-23, Rev. 1 | *Western Resource Advocates*
+- **Mon 09/21/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
+- **Mon 09/21/2026 08:00 am** | Public Comment (2) Email | *Comment, Public*
+- **Mon 09/21/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Sun 09/20/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Mon 09/14/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Thu 09/10/2026 01:05 pm** | CEO Notice of Withdrawal of Counsel | *Colorado Energy Office*
-- **Tue 09/08/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Fri 09/04/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Fri 09/04/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Thu 09/03/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Tue 09/01/2026 04:36 pm** | Public Comment (1) Email | *Comment, Public*
-- **Tue 09/01/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Mon 08/31/2026 01:00 am** | Public Comments | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
