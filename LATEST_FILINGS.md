@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-22T13:58:00.504Z
-New filings this cycle: 8 | SABESS-relevant: 0
+Last updated: 2026-09-25T14:28:50.653Z
+New filings this cycle: 56 | SABESS-relevant: 7
 
 ## Background Context
 
@@ -36,29 +36,29 @@ New filings this cycle: 8 | SABESS-relevant: 0
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Tue 09/22/2026 04:13 pm** | Monthly Comanche Report - September 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Tue 09/22/2026 04:13 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - September 2026 | *Public Service Company of Colorado*
+- **Tue 09/22/2026 04:13 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - September 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Tue 09/22/2026 04:13 pm** | Highly Confidential Appendix B, Large Load Forecast - September 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Tue 09/22/2026 04:13 pm** | Appendix B, Large Load Forecast - September 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Tue 09/22/2026 04:13 pm** | Appendix A, Sections 1-4 Supporting Appendices - September 2026 | *Public Service Company of Colorado*
+- **Tue 09/22/2026 04:13 pm** | Confidential Executable Appendix C, Bilateral Purchases - September 2026 | *Public Service Company of Colorado*
+- **Tue 09/22/2026 04:13 pm** | Confidential Appendix C, Bilateral Purchases - September 2026 | *Public Service Company of Colorado*
+- **Tue 09/22/2026 04:13 pm** | Appendix C, Bilateral Purchases - September 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Fri 09/18/2026 02:20 pm** | C26-0610 Commission Decision Granting Motion for Extraordinary Protection and Denying Motion for Leave to Respond | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Wed 09/09/2026 11:15 am** | Notice Regarding Comanche Unit 3 Operation | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Tue 09/08/2026 12:31 pm** | Motion of Public Service Company of Colorado for Leave to Respond to Holy Cross Energy Association, Inc. Regarding Motion for Extraordinary Protection | *Public Service Company of Colorado*
-- **Tue 09/08/2026 12:31 pm** | Attachment 1 - Public Service Conferral Email | *Public Service Company of Colorado*
-- **Tue 09/01/2026 10:48 am** | Response of Holy Cross Electric Association, Inc. to Motion of Public Service Company of Colorado for Extraordinary Protection of Highly Confidential Information | *Holy Cross Energy*
-- **Tue 08/25/2026 02:46 pm** | Motion of Public Service Company of Colorado for Extraordinary Protection of Highly Confidential Information | *Public Service Company of Colorado*
-- **Tue 08/25/2026 02:46 pm** | Attachment C - Pascucci Affidavit | *Public Service Company of Colorado*
-- **Tue 08/25/2026 02:46 pm** | Attachment B (NDA - SME) | *Public Service Company of Colorado*
-- **Tue 08/25/2026 02:46 pm** | Attachment A (NDA - Attorney) | *Public Service Company of Colorado*
-- **Mon 08/24/2026 03:06 pm** | Monthly Comanche Report - August 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
-- **Tue 09/22/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Mon 09/21/2026 12:06 pm** | Western Resource Advocates’ Notice of Revised Answer Testimony Attachments | *Western Resource Advocates*
-- **Mon 09/21/2026 12:06 pm** | Hearing Exhibit 900, Attachment CV-13, Rev. 1 | *Western Resource Advocates*
-- **Mon 09/21/2026 12:06 pm** | Hearing Exhibit 900, Attachment CV-23, Rev. 1 | *Western Resource Advocates*
-- **Mon 09/21/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Mon 09/21/2026 08:00 am** | Public Comment (2) Email | *Comment, Public*
-- **Mon 09/21/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Sun 09/20/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Mon 09/14/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Thu 09/10/2026 01:05 pm** | CEO Notice of Withdrawal of Counsel | *Colorado Energy Office*
+- **Fri 09/25/2026 08:00 am** | Hearing Exhibit 2000, Answer Testimony of August Ankum, Ph.D., Rev. 1 | *Data Center Coalition*
+- **Fri 09/25/2026 08:00 am** | Notice of Filing | *Data Center Coalition*
+- **Thu 09/24/2026 12:02 pm** | Hearing Exhibit 1201, Affidavit of Dr. Carolyn A. Berry | *Google LLC*
+- **Thu 09/24/2026 12:00 pm** | Hearing Exhibit 1200, Affidavit of Dr. Carolyn A. Berry | *Google LLC*
+- **Wed 09/23/2026 04:45 pm** | Hearing Exhibit 1304, Cross-Answer Testimony of Staff Witness Dahlke | *Colorado Public Utilities Commission*
+- **Wed 09/23/2026 04:45 pm** | Trial Staff's Notice of Filing Cross-Answer Testimony and Attachment | *Colorado Public Utilities Commission*
+- **Wed 09/23/2026 04:45 pm** | Hearing Exhibit 1304, Attachment SJD-CA-1, Transmission-to-Load Guidelines | *Colorado Public Utilities Commission* ⚡ [HIGH]
+- **Wed 09/23/2026 04:43 pm** | Hearing Exhibit 1401, Cross Answer Testimony of Brian Turner for Advanced Energy United | *Advanced Energy United*
+- **Wed 09/23/2026 04:33 pm** | Hearing Exhibit 401, Cross-Answer of Jamison Valdez and Affidavit on behalf of GreenLatinos | *GreenLatinos*
+- **Wed 09/23/2026 04:28 pm** | Hearing Exhibit 1201, Cross Answer Testimony of Dr. Carolyn A. Berry on Behalf of Google LLC | *Google LLC*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -75,6 +75,7 @@ New filings this cycle: 8 | SABESS-relevant: 0
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 09/22/2026 03:56 pm** | Application of Public Service Company of Colorado for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Public Service Company of Colorado*
 - **Thu 09/10/2026 04:49 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/01/2026 10:35 am** | Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
@@ -84,5 +85,4 @@ New filings this cycle: 8 | SABESS-relevant: 0
 - **Tue 08/18/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/11/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 08/05/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Tue 08/04/2026 01:00 am** | Public Comments | *Comment, Public*
 

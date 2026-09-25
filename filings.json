@@ -38632,5 +38632,950 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Monthly Comanche Report - September 2026",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "MEDIUM",
+      "implications": [
+        {
+          "keyword": "comanche",
+          "risk": "MEDIUM",
+          "category": "Timeline",
+          "impact": "Comanche 3 repair timeline affects near-term capacity need and JTS Phase II urgency."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Executable Appendix A, Sections 1-4 Supporting Appendices - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Highly Confidential Executable Appendix B, Large Load Forecast - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Highly Confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "CRITICAL",
+      "implications": [
+        {
+          "keyword": "load forecast",
+          "risk": "CRITICAL",
+          "category": "Procurement",
+          "impact": "Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Highly Confidential Appendix B, Large Load Forecast - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Highly Confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "CRITICAL",
+      "implications": [
+        {
+          "keyword": "load forecast",
+          "risk": "CRITICAL",
+          "category": "Procurement",
+          "impact": "Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Appendix B, Large Load Forecast - September 2026 (Public Slip Sheet)",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "CRITICAL",
+      "implications": [
+        {
+          "keyword": "load forecast",
+          "risk": "CRITICAL",
+          "category": "Procurement",
+          "impact": "Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Appendix A, Sections 1-4 Supporting Appendices - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Confidential Executable Appendix C, Bilateral Purchases - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Confidential Appendix C, Bilateral Purchases - September 2026",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 04:13 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Appendix C, Bilateral Purchases - September 2026 (Public Slip Sheet)",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-09-25T14:27:47.673Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 09/25/2026 08:00 am",
+    "parsedDate": "2026-09-25T00:00:00.000Z",
+    "title": "Hearing Exhibit 2000, Answer Testimony of August Ankum, Ph.D., Rev. 1",
+    "docType": "Testimony",
+    "submitter": "Data Center Coalition",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 09/25/2026 08:00 am",
+    "parsedDate": "2026-09-25T00:00:00.000Z",
+    "title": "Notice of Filing",
+    "docType": "Notification",
+    "submitter": "Data Center Coalition",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 09/24/2026 12:02 pm",
+    "parsedDate": "2026-09-24T00:00:00.000Z",
+    "title": "Hearing Exhibit 1201, Affidavit of Dr. Carolyn A. Berry",
+    "docType": "Affidavit",
+    "submitter": "Google LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 09/24/2026 12:00 pm",
+    "parsedDate": "2026-09-24T00:00:00.000Z",
+    "title": "Hearing Exhibit 1200, Affidavit of Dr. Carolyn A. Berry",
+    "docType": "Affidavit",
+    "submitter": "Google LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:45 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1304, Cross-Answer Testimony of Staff Witness Dahlke",
+    "docType": "Testimony",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:45 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Trial Staff's Notice of Filing Cross-Answer Testimony and Attachment",
+    "docType": "Notification",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:45 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1304, Attachment SJD-CA-1, Transmission-to-Load Guidelines",
+    "docType": "Attachment To Filing",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "HIGH",
+      "implications": [
+        {
+          "keyword": "transmission",
+          "risk": "HIGH",
+          "category": "Infrastructure",
+          "impact": "Transmission constraints in northern pocket (Fort Lupton) affect interconnection timing and headroom."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:43 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1401, Cross Answer Testimony of Brian Turner for Advanced Energy United",
+    "docType": "Testimony",
+    "submitter": "Advanced Energy United",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:33 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 401, Cross-Answer of Jamison Valdez and Affidavit on behalf of GreenLatinos",
+    "docType": "Testimony",
+    "submitter": "GreenLatinos",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:28 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1201, Cross Answer Testimony of Dr. Carolyn A. Berry on Behalf of Google LLC",
+    "docType": "Testimony",
+    "submitter": "Google LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:28 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1201, Attachment CAB-17, Public Service Response to Discovery Request RA-SWEEP1-15",
+    "docType": "Attachment To Filing",
+    "submitter": "Google LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 04:05 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit No. 1602 - Cross-Answer Testimony of Stephen Beuning on Behalf of United Power, Inc.",
+    "docType": "Testimony",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 03:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Cross-Answer Testimony of Christopher Hildred",
+    "docType": "Testimony",
+    "submitter": "CORE Electric Cooperative",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 03:34 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1501, Cross Answer Testimony of Justin Bieber on Behalf of the Colorado Energy Consumers",
+    "docType": "Testimony",
+    "submitter": "Colorado Energy Consumers Group",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 03:34 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1501, Certificate of Service",
+    "docType": "Certificate Of Service",
+    "submitter": "Colorado Energy Consumers Group",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 02:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 501, Cross-Answer Testimony of Wil Gehl for COSSA-SEIA",
+    "docType": "Testimony",
+    "submitter": "Colorado Solar and Storage Association",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 02:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 501, Affidavit of Wil Gehl",
+    "docType": "Affidavit",
+    "submitter": "Colorado Solar and Storage Association",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 02:30 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "HEARING EXHIBIT 2001, CROSS ANSWER TESTIMONY OF AUGUST ANKUM, PH.D.",
+    "docType": "Testimony",
+    "submitter": "Data Center Coalition",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 02:15 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 202, Cross Answer Testimony of Justin Brant",
+    "docType": "Testimony",
+    "submitter": "Sierra Club Environmental Law Program",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 113, Rebuttal Testimony of Robert L. Currin",
+    "docType": "Testimony",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 112, Rebuttal Testimony of Dr. Rajarshi Roychowdhury",
+    "docType": "Testimony",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 111, Rebuttal Testimony of Steven W. Wishart",
+    "docType": "Testimony",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 109, Rebuttal Testimony of Jack W. Ihle",
+    "docType": "Testimony",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 110, Rebuttal Testimony of Michael V. Pascucci",
+    "docType": "Testimony",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 113, Attachment RLC-4, PLEXOS Large Load Generation Production Cost Assignment Example",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "MEDIUM",
+      "implications": [
+        {
+          "keyword": "cost",
+          "risk": "MEDIUM",
+          "category": "Economics",
+          "impact": "Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 113, Attachment RLC-6, Public Service Response to Discovery Request CC2-19",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 112, Attachment RR-5, Large Load Technical Requirements",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 109, Attachment JWI-3, Public Service Response to Discovery Request CPUC1-14",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 113, Executable Attachment RLC-4, PLEXOS Large Load Generation Production Cost Assignment Example",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "MEDIUM",
+      "implications": [
+        {
+          "keyword": "cost",
+          "risk": "MEDIUM",
+          "category": "Economics",
+          "impact": "Generic cost changes (capital, O&M) affect SABESS cost competitiveness in RFP evaluation."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:51 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 113, Attachment RLC-5, Public Service Response to Discovery Request CC2-17",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 01:20 pm",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 601, Cross-Answer Testimony of Keith M. Hay",
+    "docType": "Testimony",
+    "submitter": "Colorado Energy Office",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:32 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1801, Cross-Answer Testimony of Priya Barau",
+    "docType": "Testimony",
+    "submitter": "Corporate Energy Buyers Association",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902HC, Cross-Answer Testimony of Clare Valentine",
+    "docType": "Testimony",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Highly Confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Cross-Answer Testimony of Clare Valentine",
+    "docType": "Testimony",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Certificate of Service",
+    "docType": "Certificate Of Service",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-29, Slip Sheet",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-29HC, Public Service Discovery Attachment WRA1-20.A2",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Highly Confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Executable Attachment CV-28HC, Public Service Discovery Attachment WRA1-20.A1",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Highly Confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-28HC, Public Service Discovery Attachment WRA1-20.A1",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Highly Confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-28, Slip Sheet",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-27, PSCO Response to WRA1-20",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Attachment CV-26, PSCO Response to WRA1-8",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 11:12 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 902, Executable Attachment CV-29HC, Public Service Discovery Attachment WRA1-20.A2",
+    "docType": "Attachment To Filing",
+    "submitter": "Western Resource Advocates",
+    "confidentiality": "Highly Confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 09:37 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "United Power, Inc.'s Notice of Filing of Revised Attachment to Answer Testimony of Jon Aust",
+    "docType": "Notification",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.077Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 09/23/2026 09:37 am",
+    "parsedDate": "2026-09-23T00:00:00.000Z",
+    "title": "Hearing Exhibit 1600, Attachment JA-4, Email Re Network Upgrades, Rev. 1",
+    "docType": "Attachment To Filing",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.078Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 08:00 am",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-09-25T14:27:59.078Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 03:56 pm",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Application of Public Service Company of Colorado for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583",
+    "docType": "Rehearing, Reargument, Reconsideration",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-09-25T14:28:49.603Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
