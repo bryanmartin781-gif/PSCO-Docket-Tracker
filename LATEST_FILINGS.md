@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-09-28T17:25:21.159Z
-New filings this cycle: 0 | SABESS-relevant: 0
+Last updated: 2026-10-01T16:03:46.675Z
+New filings this cycle: 18 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -49,16 +49,16 @@ New filings this cycle: 0 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
-- **Fri 09/25/2026 08:00 am** | Hearing Exhibit 2000, Answer Testimony of August Ankum, Ph.D., Rev. 1 | *Data Center Coalition*
-- **Fri 09/25/2026 08:00 am** | Notice of Filing | *Data Center Coalition*
-- **Thu 09/24/2026 12:02 pm** | Hearing Exhibit 1201, Affidavit of Dr. Carolyn A. Berry | *Google LLC*
-- **Thu 09/24/2026 12:00 pm** | Hearing Exhibit 1200, Affidavit of Dr. Carolyn A. Berry | *Google LLC*
-- **Wed 09/23/2026 04:45 pm** | Hearing Exhibit 1304, Cross-Answer Testimony of Staff Witness Dahlke | *Colorado Public Utilities Commission*
-- **Wed 09/23/2026 04:45 pm** | Trial Staff's Notice of Filing Cross-Answer Testimony and Attachment | *Colorado Public Utilities Commission*
-- **Wed 09/23/2026 04:45 pm** | Hearing Exhibit 1304, Attachment SJD-CA-1, Transmission-to-Load Guidelines | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Wed 09/23/2026 04:43 pm** | Hearing Exhibit 1401, Cross Answer Testimony of Brian Turner for Advanced Energy United | *Advanced Energy United*
-- **Wed 09/23/2026 04:33 pm** | Hearing Exhibit 401, Cross-Answer of Jamison Valdez and Affidavit on behalf of GreenLatinos | *GreenLatinos*
-- **Wed 09/23/2026 04:28 pm** | Hearing Exhibit 1201, Cross Answer Testimony of Dr. Carolyn A. Berry on Behalf of Google LLC | *Google LLC*
+- **Thu 10/01/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1600, Rev. 1 - Answer Testimony and Attachments of Jon Aust on Behalf of United Power, Inc. | *United Power, Inc.*
+- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1601, Rev. 1 -Answer Testimony and Attachments of Stephen Beuning on Behalf of United Power, Inc. | *United Power, Inc.*
+- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1602, Rev. 1 - Cross-Answer Testimony of Stephen Beuning on Behalf of United Power, Inc. | *United Power, Inc.*
+- **Wed 09/30/2026 04:52 pm** | United Power, Inc.'s Notice of Filing Revised Answer and Cross-Answer Testimony | *United Power, Inc.*
+- **Wed 09/30/2026 03:11 pm** | Hearing Exhibit 110, Rebuttal Testimony of Michael V. Pascucci, Rev. 1 | *Public Service Company of Colorado*
+- **Wed 09/30/2026 03:11 pm** | Notice of Filing Corrected Hearing Exhibit 110 | *Public Service Company of Colorado*
+- **Wed 09/30/2026 02:59 pm** | Hearing Exhibit 1304, Cross-Answer Testimony of Staff Witness Dahlke, Rev. 1 | *Colorado Public Utilities Commission*
+- **Wed 09/30/2026 02:59 pm** | Notice of Filing of Corrected Cross-Answer Testimony of Staff Witness Steven Dahlke and Attachment | *Colorado Public Utilities Commission*
+- **Wed 09/30/2026 02:59 pm** | Hearing Exhibit 1304, Attachment SJD-13, Transmission-to-Load Guidelines | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -75,6 +75,7 @@ New filings this cycle: 0 | SABESS-relevant: 0
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Wed 09/30/2026 02:20 pm** | 24A-0547E, PSCo Q3 Quarterly HCA Report | *Public Service Company of Colorado*
 - **Tue 09/22/2026 03:56 pm** | Application of Public Service Company of Colorado for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Public Service Company of Colorado*
 - **Thu 09/10/2026 04:49 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
@@ -84,5 +85,4 @@ New filings this cycle: 0 | SABESS-relevant: 0
 - **Thu 08/20/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/18/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 08/11/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Wed 08/05/2026 01:00 am** | Public Comments | *Comment, Public*
 
