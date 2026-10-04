@@ -39872,5 +39872,53 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Thu 10/01/2026 08:00 am",
+    "parsedDate": "2026-10-01T00:00:00.000Z",
+    "title": "Public Comment (1) Email",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-04T14:40:00.644Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/02/2026 04:26 pm",
+    "parsedDate": "2026-10-02T00:00:00.000Z",
+    "title": "24A-0547E, PSCo HCA Data Validation Plan Report",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-10-04T14:40:51.536Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 10/01/2026 04:52 pm",
+    "parsedDate": "2026-10-01T00:00:00.000Z",
+    "title": "24A-0547E Phase II DSP Report",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-10-04T14:40:51.536Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
