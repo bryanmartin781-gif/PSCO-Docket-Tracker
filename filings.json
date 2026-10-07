@@ -39920,5 +39920,69 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Tue 10/06/2026 04:45 pm",
+    "parsedDate": "2026-10-06T00:00:00.000Z",
+    "title": "Hearing Exhibit 1305, Non-Comprehensive and Non-Unanimous Stipulation",
+    "docType": "Stipulation/Settlement Agreement",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-07T16:08:20.359Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/06/2026 04:45 pm",
+    "parsedDate": "2026-10-06T00:00:00.000Z",
+    "title": "Trial Staff's Notice of Filing Non-Comprehensive and Non-Unanimous Stipulation",
+    "docType": "Notification",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-07T16:08:20.359Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 08/19/2026 10:05 am",
+    "parsedDate": "2026-08-19T00:00:00.000Z",
+    "title": "Hearing Exhibit 701, Attachment ASMI-3_PSCo Revenue Comparison Workbook",
+    "docType": "Attachment To Filing",
+    "submitter": "Office Of Utility Consumer Advocate",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-07T16:08:20.370Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/06/2026 01:36 pm",
+    "parsedDate": "2026-10-06T00:00:00.000Z",
+    "title": "Missiondata Second Unopposed Motion to Extend Comment Period (24A-0547E)",
+    "docType": "Motion",
+    "submitter": "Mission:data",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-10-07T16:09:16.902Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]

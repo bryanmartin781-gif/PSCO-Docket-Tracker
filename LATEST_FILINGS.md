@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-04T14:40:52.570Z
-New filings this cycle: 3 | SABESS-relevant: 0
+Last updated: 2026-10-07T16:09:17.955Z
+New filings this cycle: 4 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -49,6 +49,8 @@ New filings this cycle: 3 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 10/06/2026 04:45 pm** | Hearing Exhibit 1305, Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
+- **Tue 10/06/2026 04:45 pm** | Trial Staff's Notice of Filing Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
 - **Thu 10/01/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
 - **Thu 10/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1600, Rev. 1 - Answer Testimony and Attachments of Jon Aust on Behalf of United Power, Inc. | *United Power, Inc.*
@@ -57,8 +59,6 @@ New filings this cycle: 3 | SABESS-relevant: 0
 - **Wed 09/30/2026 04:52 pm** | United Power, Inc.'s Notice of Filing Revised Answer and Cross-Answer Testimony | *United Power, Inc.*
 - **Wed 09/30/2026 03:11 pm** | Hearing Exhibit 110, Rebuttal Testimony of Michael V. Pascucci, Rev. 1 | *Public Service Company of Colorado*
 - **Wed 09/30/2026 03:11 pm** | Notice of Filing Corrected Hearing Exhibit 110 | *Public Service Company of Colorado*
-- **Wed 09/30/2026 02:59 pm** | Hearing Exhibit 1304, Cross-Answer Testimony of Staff Witness Dahlke, Rev. 1 | *Colorado Public Utilities Commission*
-- **Wed 09/30/2026 02:59 pm** | Notice of Filing of Corrected Cross-Answer Testimony of Staff Witness Steven Dahlke and Attachment | *Colorado Public Utilities Commission*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -75,6 +75,7 @@ New filings this cycle: 3 | SABESS-relevant: 0
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 10/06/2026 01:36 pm** | Missiondata Second Unopposed Motion to Extend Comment Period (24A-0547E) | *Mission:data*
 - **Fri 10/02/2026 04:26 pm** | 24A-0547E, PSCo HCA Data Validation Plan Report | *Public Service Company of Colorado*
 - **Thu 10/01/2026 04:52 pm** | 24A-0547E Phase II DSP Report | *Public Service Company of Colorado*
 - **Wed 09/30/2026 02:20 pm** | 24A-0547E, PSCo Q3 Quarterly HCA Report | *Public Service Company of Colorado*
@@ -84,5 +85,4 @@ New filings this cycle: 3 | SABESS-relevant: 0
 - **Tue 09/01/2026 10:35 am** | Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 08/27/2026 12:15 pm** | Errata Notice for Decision No. C26-0476 | *Colorado Public Utilities Commission*
-- **Thu 08/20/2026 01:00 am** | Public Comments | *Comment, Public*
 
