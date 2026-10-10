@@ -39984,5 +39984,149 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Fri 10/09/2026 03:08 pm",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "IE Communication Log",
+    "docType": "Report",
+    "submitter": "Maura Coakley",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-10-10T15:05:11.549Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 04:02 pm",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Motion to Excuse Associated Counsel",
+    "docType": "Motion",
+    "submitter": "Data Center Coalition",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 03:39 pm",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Notice of Filing Joint Cross Examination Matrix",
+    "docType": "Notification",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 03:39 pm",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Order of Witnesses Estimated Cross Examination Matrix",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 01:00 am",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 01:00 am",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Public Comment Attached File",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 10/07/2026 03:38 pm",
+    "parsedDate": "2026-10-07T00:00:00.000Z",
+    "title": "United Power, Inc.'s Notice of Filing Affidavits",
+    "docType": "Notification",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 10/07/2026 03:38 pm",
+    "parsedDate": "2026-10-07T00:00:00.000Z",
+    "title": "Affidavit of Stephen Beuning",
+    "docType": "Affidavit",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 10/07/2026 03:38 pm",
+    "parsedDate": "2026-10-07T00:00:00.000Z",
+    "title": "Affidavit of Jonathan Aust",
+    "docType": "Affidavit",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-10T15:05:33.069Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]

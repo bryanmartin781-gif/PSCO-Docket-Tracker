@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-07T16:09:17.955Z
-New filings this cycle: 4 | SABESS-relevant: 0
+Last updated: 2026-10-10T15:06:27.880Z
+New filings this cycle: 9 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 4 | SABESS-relevant: 0
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Fri 10/09/2026 03:08 pm** | IE Communication Log | *Maura Coakley*
 - **Fri 09/11/2026 04:43 pm** | Notice of Staff Filing of Independent Evaluator's Draft Bidder Survey | *Colorado Public Utilities Commission*
 - **Fri 09/11/2026 04:43 pm** | Accion Bidder Survey | *Colorado Public Utilities Commission*
 - **Wed 09/02/2026 11:24 am** | Notice Regarding Just Transition Solicitation Base Request for Proposals Issuance | *Public Service Company of Colorado* ⚡ [LOW]
@@ -32,7 +33,6 @@ New filings this cycle: 4 | SABESS-relevant: 0
 - **Tue 08/18/2026 04:51 pm** | Request for Leave to Reply and Reply Comments of the Coalition For Community Solar Access | *Coalition for Community Solar Access, Inc.*
 - **Fri 08/14/2026 03:51 pm** | Confidential Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
 - **Fri 08/14/2026 03:51 pm** | Attachment 1 (Public Slip Sheet) | *Public Service Company of Colorado*
-- **Fri 08/14/2026 03:51 pm** | Confidential Executable Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,16 +49,16 @@ New filings this cycle: 4 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Fri 10/09/2026 04:02 pm** | Motion to Excuse Associated Counsel | *Data Center Coalition*
+- **Fri 10/09/2026 03:39 pm** | Notice of Filing Joint Cross Examination Matrix | *Public Service Company of Colorado*
+- **Fri 10/09/2026 03:39 pm** | Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
+- **Fri 10/09/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Fri 10/09/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
+- **Wed 10/07/2026 03:38 pm** | United Power, Inc.'s Notice of Filing Affidavits | *United Power, Inc.*
+- **Wed 10/07/2026 03:38 pm** | Affidavit of Stephen Beuning | *United Power, Inc.*
+- **Wed 10/07/2026 03:38 pm** | Affidavit of Jonathan Aust | *United Power, Inc.*
 - **Tue 10/06/2026 04:45 pm** | Hearing Exhibit 1305, Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
 - **Tue 10/06/2026 04:45 pm** | Trial Staff's Notice of Filing Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
-- **Thu 10/01/2026 08:00 am** | Public Comment (1) Email | *Comment, Public*
-- **Thu 10/01/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1600, Rev. 1 - Answer Testimony and Attachments of Jon Aust on Behalf of United Power, Inc. | *United Power, Inc.*
-- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1601, Rev. 1 -Answer Testimony and Attachments of Stephen Beuning on Behalf of United Power, Inc. | *United Power, Inc.*
-- **Wed 09/30/2026 04:52 pm** | Hearing Exhibit 1602, Rev. 1 - Cross-Answer Testimony of Stephen Beuning on Behalf of United Power, Inc. | *United Power, Inc.*
-- **Wed 09/30/2026 04:52 pm** | United Power, Inc.'s Notice of Filing Revised Answer and Cross-Answer Testimony | *United Power, Inc.*
-- **Wed 09/30/2026 03:11 pm** | Hearing Exhibit 110, Rebuttal Testimony of Michael V. Pascucci, Rev. 1 | *Public Service Company of Colorado*
-- **Wed 09/30/2026 03:11 pm** | Notice of Filing Corrected Hearing Exhibit 110 | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
