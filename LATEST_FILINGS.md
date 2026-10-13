@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-10T15:06:27.880Z
-New filings this cycle: 9 | SABESS-relevant: 0
+Last updated: 2026-10-13T16:46:47.112Z
+New filings this cycle: 5 | SABESS-relevant: 2
 
 ## Background Context
 
@@ -10,6 +10,7 @@ New filings this cycle: 9 | SABESS-relevant: 0
 
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
+- **Mon 10/12/2026 09:30 am** | Public Service Company of Colorado's October 2026 Quarterly Report on the Status of the Resource Solicitation Cluster Process | *Public Service Company of Colorado*
 - **Tue 09/15/2026 12:54 pm** | September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Tue 09/15/2026 12:54 pm** | Highly Confidential September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | Highly Confidential August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
@@ -19,10 +20,10 @@ New filings this cycle: 9 | SABESS-relevant: 0
 - **Fri 08/07/2026 09:24 am** | Highly Confidential Attachment C | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:20 am** | Highly Confidential Attachment C (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:06 am** | Highly Confidential Attachment B | *Public Service Company of Colorado*
-- **Fri 08/07/2026 09:06 am** | Highly Confidential Attachment B (Public Slip Sheet) | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Mon 10/12/2026 02:10 pm** | C26-0655 Interim Commission Decision Approving Draft Bidder Survey | *Unknown* ⚡ [HIGH]
 - **Fri 10/09/2026 03:08 pm** | IE Communication Log | *Maura Coakley*
 - **Fri 09/11/2026 04:43 pm** | Notice of Staff Filing of Independent Evaluator's Draft Bidder Survey | *Colorado Public Utilities Commission*
 - **Fri 09/11/2026 04:43 pm** | Accion Bidder Survey | *Colorado Public Utilities Commission*
@@ -32,7 +33,6 @@ New filings this cycle: 9 | SABESS-relevant: 0
 - **Wed 08/19/2026 10:20 am** | Public Comment (1) Email | *Comment, Public*
 - **Tue 08/18/2026 04:51 pm** | Request for Leave to Reply and Reply Comments of the Coalition For Community Solar Access | *Coalition for Community Solar Access, Inc.*
 - **Fri 08/14/2026 03:51 pm** | Confidential Attachment 1 - JTS Adder-Credit Recalc | *Public Service Company of Colorado*
-- **Fri 08/14/2026 03:51 pm** | Attachment 1 (Public Slip Sheet) | *Public Service Company of Colorado*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,7 +49,9 @@ New filings this cycle: 9 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Sun 10/11/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 10/09/2026 04:02 pm** | Motion to Excuse Associated Counsel | *Data Center Coalition*
+- **Fri 10/09/2026 04:02 pm** | Motion to Excuse Associated Counsel from Evidentiary Hearing | *Data Center Coalition*
 - **Fri 10/09/2026 03:39 pm** | Notice of Filing Joint Cross Examination Matrix | *Public Service Company of Colorado*
 - **Fri 10/09/2026 03:39 pm** | Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
 - **Fri 10/09/2026 01:00 am** | Public Comments | *Comment, Public*
@@ -57,11 +59,10 @@ New filings this cycle: 9 | SABESS-relevant: 0
 - **Wed 10/07/2026 03:38 pm** | United Power, Inc.'s Notice of Filing Affidavits | *United Power, Inc.*
 - **Wed 10/07/2026 03:38 pm** | Affidavit of Stephen Beuning | *United Power, Inc.*
 - **Wed 10/07/2026 03:38 pm** | Affidavit of Jonathan Aust | *United Power, Inc.*
-- **Tue 10/06/2026 04:45 pm** | Hearing Exhibit 1305, Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
-- **Tue 10/06/2026 04:45 pm** | Trial Staff's Notice of Filing Non-Comprehensive and Non-Unanimous Stipulation | *Colorado Public Utilities Commission*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Mon 10/12/2026 02:08 pm** | C26-0654 Commission Decision Addressing Applications for Rehearing, Reargument, or Reconsideration of Decision No. C26-0554 and Authorizing Further Adjustments to Base Rates | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Mon 09/14/2026 04:05 pm** | Application for Rehearing, Reargument, or Reconsideration of Energy Outreach Colorado | *Energy Outreach Colorado*
 - **Mon 09/14/2026 03:27 pm** | Joint Application of Settling Parties for Rehearing, Reargument, or Reconsideration of Decision No. C26-0554 | *Public Service Company of Colorado*
 - **Mon 09/14/2026 03:08 pm** | Application for Rehearing, Reargument, or Reconsideration of the Colorado Office of the Utility Consumer Advocate | *Office of Utility Consumer Advocate*
@@ -71,7 +72,6 @@ New filings this cycle: 9 | SABESS-relevant: 0
 - **Sat 09/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Tue 09/01/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Sat 08/29/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Thu 08/27/2026 10:36 am** | 25AL-0494E, Corrected Notice of Compliance Filing | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
