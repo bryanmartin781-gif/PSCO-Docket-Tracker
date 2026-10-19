@@ -40492,5 +40492,165 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Fri 10/16/2026 01:35 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "21A-0141E - JP Development Holdings - Petition for Late Intervention",
+    "docType": "Interventions",
+    "submitter": "JP Development Holdings LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-10-19T16:14:04.967Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 10/19/2026 08:09 am",
+    "parsedDate": "2026-10-19T00:00:00.000Z",
+    "title": "IE Communication Log – Week Ending October 16, 2026",
+    "docType": "Compliance Filings",
+    "submitter": "Maura Coakley",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-10-19T16:14:39.857Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 03:30 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "Notice of Filing Revised Cross Examination Matrix",
+    "docType": "Notification",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 03:30 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "Revised Order of Witnesses Estimated Cross Examination Matrix",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 03:30 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "Executable Revised Order of Witnesses Estimated Cross Examination Matrix",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 02:54 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "Hearing Exhibit No. 1600, Rev.2 - Answer Testimony and Attachments of Jonathan Aust on Behalf of United Power, Inc.",
+    "docType": "Testimony",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 02:54 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "United Power, Inc.'s Motion for Leave to File Second Revised Answer Testimony of Jonathan Aust",
+    "docType": "Motion",
+    "submitter": "United Power, Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 10/15/2026 05:00 pm",
+    "parsedDate": "2026-10-15T00:00:00.000Z",
+    "title": "Public Comment (1) Hand Delivered",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 10/15/2026 08:00 am",
+    "parsedDate": "2026-10-15T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-10-19T16:14:57.671Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 02:52 pm",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "NWA Independent Evaluator NWA IE Report",
+    "docType": "Report",
+    "submitter": "DNV Energy Insights USA Inc.",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0547E",
+    "proceedingName": "24A-0547E Public Service Company - Electric - DSP 2025-2029",
+    "fetchedAt": "2026-10-19T16:15:51.768Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
