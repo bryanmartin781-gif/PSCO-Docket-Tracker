@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-19T16:15:52.801Z
-New filings this cycle: 10 | SABESS-relevant: 0
+Last updated: 2026-10-22T14:24:25.118Z
+New filings this cycle: 25 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -11,6 +11,7 @@ New filings this cycle: 10 | SABESS-relevant: 0
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
 - **Fri 10/16/2026 01:35 pm** | 21A-0141E - JP Development Holdings - Petition for Late Intervention | *JP Development Holdings LLC*
+- **Fri 10/16/2026 01:35 pm** | Unopposed Motion to Intervene Out of Time and Request for Waiver of Response Time of JP Development Holdings LLC | *JP Development Holdings LLC*
 - **Thu 10/15/2026 12:35 pm** | Highly Confidential October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Thu 10/15/2026 12:35 pm** | October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Mon 10/12/2026 09:30 am** | Public Service Company of Colorado's October 2026 Quarterly Report on the Status of the Resource Solicitation Cluster Process | *Public Service Company of Colorado*
@@ -19,7 +20,6 @@ New filings this cycle: 10 | SABESS-relevant: 0
 - **Fri 08/14/2026 01:10 pm** | Highly Confidential August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/07/2026 09:37 am** | Highly Confidential Attachment D | *Public Service Company of Colorado*
-- **Fri 08/07/2026 09:34 am** | Highly Confidential Attachment D (Public Slip Sheet) | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
@@ -49,16 +49,16 @@ New filings this cycle: 10 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
-- **Fri 10/16/2026 03:30 pm** | Notice of Filing Revised Cross Examination Matrix | *Public Service Company of Colorado*
-- **Fri 10/16/2026 03:30 pm** | Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
-- **Fri 10/16/2026 03:30 pm** | Executable Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
-- **Fri 10/16/2026 02:54 pm** | Hearing Exhibit No. 1600, Rev.2 - Answer Testimony and Attachments of Jonathan Aust on Behalf of United Power, Inc. | *United Power, Inc.*
-- **Fri 10/16/2026 02:54 pm** | United Power, Inc.'s Motion for Leave to File Second Revised Answer Testimony of Jonathan Aust | *United Power, Inc.*
-- **Fri 10/16/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Thu 10/15/2026 05:00 pm** | Public Comment (1) Hand Delivered | *Comment, Public*
-- **Thu 10/15/2026 08:00 am** | Public Comments | *Comment, Public*
-- **Tue 10/13/2026 04:07 pm** | Black Hills Colorado Electric, LLC’s Motion to Excuse Witnesses and Counsel from Evidentiary Hearing | *Black Hills Colorado Electric, LLC*
-- **Tue 10/13/2026 04:07 pm** | Attachment A | *Black Hills Colorado Electric, LLC*
+- **Thu 10/22/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Wed 10/21/2026 04:59 pm** | Public Comment (2) Email | *Comment, Public*
+- **Wed 10/21/2026 11:13 am** | 26AL-0137E Affidavit of Brian Turner on Behalf of Advanced Energy United | *Advanced Energy United*
+- **Wed 10/21/2026 08:00 am** | Public Comment (3) Email | *Comment, Public*
+- **Wed 10/21/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Tue 10/20/2026 04:37 pm** | Public Comment (1) Email | *Comment, Public*
+- **Tue 10/20/2026 04:19 pm** | Ankum Affidavit for Direct Testimony | *Data Center Coalition*
+- **Tue 10/20/2026 04:00 pm** | HEARING REPORT from 10-20-26 | *Colorado Public Utilities Commission*
+- **Tue 10/20/2026 02:37 pm** | Public Comment (1) Email | *Comment, Public*
+- **Tue 10/20/2026 12:30 pm** | Ceres Comments on Water Considerations in Public Service Company of Colorado's Proposed Large Load Tariff, with Enclosure: Water Behind the Watts | *CERES, INC.*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -76,6 +76,7 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Tue 10/20/2026 12:42 pm** | Commission Decision Granting Application for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 10/16/2026 02:52 pm** | NWA Independent Evaluator NWA IE Report | *DNV Energy Insights USA Inc.*
 - **Tue 10/06/2026 01:36 pm** | Missiondata Second Unopposed Motion to Extend Comment Period (24A-0547E) | *Mission:data*
 - **Tue 10/06/2026 01:36 pm** | Second Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
@@ -85,5 +86,4 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Tue 09/22/2026 03:56 pm** | Application of Public Service Company of Colorado for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Public Service Company of Colorado*
 - **Thu 09/10/2026 04:49 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Tue 09/01/2026 10:35 am** | Unopposed Motion of Mission:Data Coalition to Extend Comment Period on Public Service Company of Colorado’s Green Button Connect Improvement Report | *Mission:data*
 
