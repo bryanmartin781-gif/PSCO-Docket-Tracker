@@ -1,18 +1,42 @@
 # SABESS Implications Report
 
-Last updated: 2026-10-22T14:24:25.124Z
+Last updated: 2026-10-25T13:37:02.001Z
 
-Found 1 SABESS-relevant filing(s) this cycle.
+Found 4 SABESS-relevant filing(s) this cycle.
 
-## HIGH Risk (1)
+## CRITICAL Risk (3)
 
-### Commission Decision Granting Application for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583
-- **Docket:** 24A-0547E: 24A-0547E Public Service Company - Electric - DSP 2025-2029
-- **Date:** Tue 10/20/2026 12:42 pm
-- **Submitter:** Colorado Public Utilities Commission
+### Highly Confidential Executable Appendix B, Large Load Forecast - October 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Thu 10/22/2026 02:25 pm
+- **Submitter:** Public Service Company of Colorado
 - **Implications:**
-  - **commission decision** [HIGH]: Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent.
+  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+
+### Highly Confidential Appendix B, Large Load Forecast - October 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Thu 10/22/2026 02:25 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+
+### Appendix B, Large Load Forecast - October 2026 (Public Slip Sheet)
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Thu 10/22/2026 02:25 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+
+## MEDIUM Risk (1)
+
+### Monthly Comanche Report - October 2026
+- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
+- **Date:** Thu 10/22/2026 02:25 pm
+- **Submitter:** Public Service Company of Colorado
+- **Implications:**
+  - **comanche** [MEDIUM]: Comanche 3 repair timeline affects near-term capacity need and JTS Phase II urgency.
 
 ## Risk Categories This Cycle
 
-- Regulatory: 1 mention(s)
+- Procurement: 3 mention(s)
+- Timeline: 1 mention(s)

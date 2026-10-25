@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-22T14:24:25.118Z
-New filings this cycle: 25 | SABESS-relevant: 1
+Last updated: 2026-10-25T13:37:01.997Z
+New filings this cycle: 17 | SABESS-relevant: 4
 
 ## Background Context
 
@@ -36,29 +36,29 @@ New filings this cycle: 25 | SABESS-relevant: 1
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Thu 10/22/2026 02:25 pm** | Monthly Comanche Report - October 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
+- **Thu 10/22/2026 02:25 pm** | Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
+- **Thu 10/22/2026 02:25 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - October 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Thu 10/22/2026 02:25 pm** | Highly Confidential Appendix B, Large Load Forecast - October 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
+- **Thu 10/22/2026 02:25 pm** | Confidential Executable Appendix C, Bilateral Purchases - October 2026 | *Public Service Company of Colorado*
+- **Thu 10/22/2026 02:25 pm** | Confidential Appendix C, Bilateral Purchases - October 2026 | *Public Service Company of Colorado*
+- **Thu 10/22/2026 02:25 pm** | Appendix C, Bilateral Purchases - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
+- **Thu 10/22/2026 02:25 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
+- **Thu 10/22/2026 02:25 pm** | Appendix B, Large Load Forecast - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
 - **Tue 09/22/2026 04:13 pm** | Monthly Comanche Report - September 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Tue 09/22/2026 04:13 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - September 2026 | *Public Service Company of Colorado*
-- **Tue 09/22/2026 04:13 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - September 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Tue 09/22/2026 04:13 pm** | Highly Confidential Appendix B, Large Load Forecast - September 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Tue 09/22/2026 04:13 pm** | Appendix B, Large Load Forecast - September 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Tue 09/22/2026 04:13 pm** | Appendix A, Sections 1-4 Supporting Appendices - September 2026 | *Public Service Company of Colorado*
-- **Tue 09/22/2026 04:13 pm** | Confidential Executable Appendix C, Bilateral Purchases - September 2026 | *Public Service Company of Colorado*
-- **Tue 09/22/2026 04:13 pm** | Confidential Appendix C, Bilateral Purchases - September 2026 | *Public Service Company of Colorado*
-- **Tue 09/22/2026 04:13 pm** | Appendix C, Bilateral Purchases - September 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
-- **Fri 09/18/2026 02:20 pm** | C26-0610 Commission Decision Granting Motion for Extraordinary Protection and Denying Motion for Leave to Respond | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Sat 10/24/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Fri 10/23/2026 10:00 am** | GreenLatinos' Motion to Excuse Witness and Counsel from Additional Hearing Dates | *GreenLatinos*
+- **Fri 10/23/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
+- **Fri 10/23/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Thu 10/22/2026 04:14 pm** | Notice of Filing Revised Cross Examination Matrix | *Public Service Company of Colorado*
+- **Thu 10/22/2026 04:14 pm** | Executable Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
+- **Thu 10/22/2026 04:14 pm** | Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
+- **Thu 10/22/2026 09:23 am** | Hearing Exhibit 114, United Power and PSCo Settlement Agreement | *Public Service Company of Colorado*
 - **Thu 10/22/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 10/21/2026 04:59 pm** | Public Comment (2) Email | *Comment, Public*
-- **Wed 10/21/2026 11:13 am** | 26AL-0137E Affidavit of Brian Turner on Behalf of Advanced Energy United | *Advanced Energy United*
-- **Wed 10/21/2026 08:00 am** | Public Comment (3) Email | *Comment, Public*
-- **Wed 10/21/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Tue 10/20/2026 04:37 pm** | Public Comment (1) Email | *Comment, Public*
-- **Tue 10/20/2026 04:19 pm** | Ankum Affidavit for Direct Testimony | *Data Center Coalition*
-- **Tue 10/20/2026 04:00 pm** | HEARING REPORT from 10-20-26 | *Colorado Public Utilities Commission*
-- **Tue 10/20/2026 02:37 pm** | Public Comment (1) Email | *Comment, Public*
-- **Tue 10/20/2026 12:30 pm** | Ceres Comments on Water Considerations in Public Service Company of Colorado's Proposed Large Load Tariff, with Enclosure: Water Behind the Watts | *CERES, INC.*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
