@@ -1,42 +1,25 @@
 # SABESS Implications Report
 
-Last updated: 2026-10-25T13:37:02.001Z
+Last updated: 2026-10-28T15:47:18.950Z
 
-Found 4 SABESS-relevant filing(s) this cycle.
+Found 2 SABESS-relevant filing(s) this cycle.
 
-## CRITICAL Risk (3)
+## HIGH Risk (2)
 
-### Highly Confidential Executable Appendix B, Large Load Forecast - October 2026
-- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
-- **Date:** Thu 10/22/2026 02:25 pm
-- **Submitter:** Public Service Company of Colorado
+### C26-0697 Commission Decision Granting Motion to Excuse Associated Counsel and Motion to Excuse Witnesses and Counsel
+- **Docket:** 26AL-0137E: Public Service Company - AL 2018 - Tariff 8 - Large Load
+- **Date:** Mon 10/26/2026 04:43 pm
+- **Submitter:** Colorado Public Utilities Commission
 - **Implications:**
-  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
+  - **commission decision** [HIGH]: Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent.
 
-### Highly Confidential Appendix B, Large Load Forecast - October 2026
-- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
-- **Date:** Thu 10/22/2026 02:25 pm
-- **Submitter:** Public Service Company of Colorado
+### Commission Decision Granting Motion to Extend Comment Period
+- **Docket:** 24A-0547E: 24A-0547E Public Service Company - Electric - DSP 2025-2029
+- **Date:** Mon 10/26/2026 04:36 pm
+- **Submitter:** Colorado Public Utilities Commission
 - **Implications:**
-  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
-
-### Appendix B, Large Load Forecast - October 2026 (Public Slip Sheet)
-- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
-- **Date:** Thu 10/22/2026 02:25 pm
-- **Submitter:** Public Service Company of Colorado
-- **Implications:**
-  - **load forecast** [CRITICAL]: Load forecast changes affect procurement volumes and SABESS viability. Higher forecast = more storage need.
-
-## MEDIUM Risk (1)
-
-### Monthly Comanche Report - October 2026
-- **Docket:** 25V-0480E: Public Service/Trial Staff/CEO/UCA - Joint Petition
-- **Date:** Thu 10/22/2026 02:25 pm
-- **Submitter:** Public Service Company of Colorado
-- **Implications:**
-  - **comanche** [MEDIUM]: Comanche 3 repair timeline affects near-term capacity need and JTS Phase II urgency.
+  - **commission decision** [HIGH]: Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent.
 
 ## Risk Categories This Cycle
 
-- Procurement: 3 mention(s)
-- Timeline: 1 mention(s)
+- Regulatory: 2 mention(s)

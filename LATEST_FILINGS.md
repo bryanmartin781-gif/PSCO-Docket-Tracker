@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-10-25T13:37:01.997Z
-New filings this cycle: 17 | SABESS-relevant: 4
+Last updated: 2026-10-28T15:47:18.948Z
+New filings this cycle: 10 | SABESS-relevant: 2
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 17 | SABESS-relevant: 4
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Tue 10/27/2026 02:01 pm** | CCSA Notice Regarding Merger | *Coalition for Community Solar Access, Inc.*
 - **Mon 10/19/2026 08:09 am** | IE Communication Log – Week Ending October 16, 2026 | *Maura Coakley*
 - **Mon 10/12/2026 02:10 pm** | C26-0655 Interim Commission Decision Approving Draft Bidder Survey | *Unknown* ⚡ [HIGH]
 - **Fri 10/09/2026 03:08 pm** | IE Communication Log | *Maura Coakley*
@@ -32,7 +33,6 @@ New filings this cycle: 17 | SABESS-relevant: 4
 - **Wed 08/26/2026 04:20 pm** | C26-0548-I Interim Commission Decision Granting Requests to Modify Request for Proposal | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 08/21/2026 12:31 pm** | C26-0547-I Interim Commission Decision Granting, with Clarifications, Motion to Approve Jointly Proposed Independent Evaluator | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Wed 08/19/2026 10:20 am** | Public Comment (1) Email | *Comment, Public*
-- **Tue 08/18/2026 04:51 pm** | Request for Leave to Reply and Reply Comments of the Coalition For Community Solar Access | *Coalition for Community Solar Access, Inc.*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,16 +49,16 @@ New filings this cycle: 17 | SABESS-relevant: 4
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Tue 10/27/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Tue 10/27/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
+- **Mon 10/26/2026 04:43 pm** | C26-0697 Commission Decision Granting Motion to Excuse Associated Counsel and Motion to Excuse Witnesses and Counsel | *Colorado Public Utilities Commission* ⚡ [HIGH]
+- **Mon 10/26/2026 04:25 pm** | Notice of Filing LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
+- **Mon 10/26/2026 04:25 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) Executable LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
+- **Mon 10/26/2026 04:25 pm** | Hearing Exhibit 116, LLT Hearing Large Customer Tracker (Public Slip Sheet) | *Public Service Company of Colorado*
+- **Mon 10/26/2026 04:25 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
+- **Mon 10/26/2026 03:31 pm** | Public Comment (1) Email | *Comment, Public*
 - **Sat 10/24/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Fri 10/23/2026 10:00 am** | GreenLatinos' Motion to Excuse Witness and Counsel from Additional Hearing Dates | *GreenLatinos*
-- **Fri 10/23/2026 01:00 am** | Public Comment Attached File | *Comment, Public*
-- **Fri 10/23/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Thu 10/22/2026 04:14 pm** | Notice of Filing Revised Cross Examination Matrix | *Public Service Company of Colorado*
-- **Thu 10/22/2026 04:14 pm** | Executable Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
-- **Thu 10/22/2026 04:14 pm** | Revised Order of Witnesses Estimated Cross Examination Matrix | *Public Service Company of Colorado*
-- **Thu 10/22/2026 09:23 am** | Hearing Exhibit 114, United Power and PSCo Settlement Agreement | *Public Service Company of Colorado*
-- **Thu 10/22/2026 01:00 am** | Public Comments | *Comment, Public*
-- **Wed 10/21/2026 04:59 pm** | Public Comment (2) Email | *Comment, Public*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
@@ -76,6 +76,7 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
+- **Mon 10/26/2026 04:36 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Tue 10/20/2026 12:42 pm** | Commission Decision Granting Application for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 10/16/2026 02:52 pm** | NWA Independent Evaluator NWA IE Report | *DNV Energy Insights USA Inc.*
 - **Tue 10/06/2026 01:36 pm** | Missiondata Second Unopposed Motion to Extend Comment Period (24A-0547E) | *Mission:data*
@@ -85,5 +86,4 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Wed 09/30/2026 02:20 pm** | 24A-0547E, PSCo Q3 Quarterly HCA Report | *Public Service Company of Colorado*
 - **Tue 09/22/2026 03:56 pm** | Application of Public Service Company of Colorado for Rehearing, Reargument, or Reconsideration of Decision No. C26-0583 | *Public Service Company of Colorado*
 - **Thu 09/10/2026 04:49 pm** | Commission Decision Granting Motion to Extend Comment Period | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Tue 09/08/2026 04:17 pm** | C26-0583 Commission Decision Addressing Compliance Comments and Providing Direction on Smart Panel Pilot Program | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
