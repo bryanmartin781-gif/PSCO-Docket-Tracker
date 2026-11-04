@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-01T15:49:38.607Z
-New filings this cycle: 0 | SABESS-relevant: 0
+Last updated: 2026-11-04T16:54:36.850Z
+New filings this cycle: 42 | SABESS-relevant: 2
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 0 | SABESS-relevant: 0
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Mon 11/02/2026 04:26 pm** | Notice of Compliance Filing | *Public Service Company of Colorado*
 - **Fri 10/30/2026 03:51 pm** | Morgan County, Colorado's Motion to Intervene Out of Time | *County of Morgan*
 - **Tue 10/27/2026 02:01 pm** | CCSA Notice Regarding Merger | *Coalition for Community Solar Access, Inc.*
 - **Mon 10/19/2026 08:09 am** | IE Communication Log – Week Ending October 16, 2026 | *Maura Coakley*
@@ -32,10 +33,10 @@ New filings this cycle: 0 | SABESS-relevant: 0
 - **Fri 09/11/2026 04:43 pm** | Accion Bidder Survey | *Colorado Public Utilities Commission*
 - **Wed 09/02/2026 11:24 am** | Notice Regarding Just Transition Solicitation Base Request for Proposals Issuance | *Public Service Company of Colorado* ⚡ [LOW]
 - **Wed 08/26/2026 04:20 pm** | C26-0548-I Interim Commission Decision Granting Requests to Modify Request for Proposal | *Colorado Public Utilities Commission* ⚡ [HIGH]
-- **Fri 08/21/2026 12:31 pm** | C26-0547-I Interim Commission Decision Granting, with Clarifications, Motion to Approve Jointly Proposed Independent Evaluator | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Wed 11/04/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 10/22/2026 02:25 pm** | Monthly Comanche Report - October 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Thu 10/22/2026 02:25 pm** | Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
 - **Thu 10/22/2026 02:25 pm** | Highly Confidential Executable Appendix B, Large Load Forecast - October 2026 | *Public Service Company of Colorado* ⚡ [CRITICAL]
@@ -45,12 +46,12 @@ New filings this cycle: 0 | SABESS-relevant: 0
 - **Thu 10/22/2026 02:25 pm** | Appendix C, Bilateral Purchases - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Thu 10/22/2026 02:25 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
 - **Thu 10/22/2026 02:25 pm** | Appendix B, Large Load Forecast - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
-- **Tue 09/22/2026 04:13 pm** | Monthly Comanche Report - September 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
 - **Fri 10/30/2026 08:57 am** | Colorado Energy Consumers' Notice of Filing Affidavit | *Colorado Energy Consumers Group*
 - **Fri 10/30/2026 08:57 am** | Hearing Exhibit 1500, Affidavit for Bieber REVISED Answer Testimony | *Colorado Energy Consumers Group*
+- **Thu 10/29/2026 04:23 am** | Public Comment (1) Email | *Comment, Public*
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Notice of Filing Revised LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) LLT Hearing Large Customer Tracker, Rev. 1 | *Public Service Company of Colorado*
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, LLT Hearing Large Customer Tracker, Rev. 1 (Public Slip Sheet) | *Public Service Company of Colorado*
@@ -58,10 +59,11 @@ New filings this cycle: 0 | SABESS-relevant: 0
 - **Wed 10/28/2026 12:33 pm** | Notice of Filing Revised Form ESA, CTT, and Schedule TL | *Public Service Company of Colorado*
 - **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 102, Attachment MVP-1, Clean Transition Tariff, Rev. 1 | *Public Service Company of Colorado*
 - **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 103, Attachment JRK-1, Transmission Large - Service TL, Rev. 1 | *Public Service Company of Colorado* ⚡ [HIGH]
-- **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 101, Attachment JWI-1, Form Electric Services Agreement, Rev. 1 | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
+- **Tue 11/03/2026 01:00 am** | Public Comments | *Comment, Public*
+- **Mon 11/02/2026 02:55 pm** | City of Boulder's Application for Rehearing, Reargument or Reconsideration of Decision C26-0654 | *City of Boulder*
 - **Wed 10/28/2026 11:58 am** | Notice of Filing of Public Service Company of Colorado within Proceeding No. 26A-0406E. | *Public Service Company of Colorado*
 - **Thu 10/15/2026 01:09 pm** | 25AL-0494E, Corrected Notice of Compliance Filing | *Public Service Company of Colorado*
 - **Thu 10/15/2026 08:00 am** | NOTICE OF COMPLIANCE FILING
@@ -71,8 +73,6 @@ BY PUBLIC SERVICE COMPANY OF COLORADO | *Public Service Company of Colorado*
 - **Wed 10/14/2026 04:05 pm** | 26AL-XXXXE_Advice No. 2038 ERC Compliance Tariffs | *Public Service Company of Colorado*
 - **Wed 10/14/2026 04:05 pm** | 26AL-XXXXE, Advice No. 2038-E, ERC Compliance Tariffs, Redline | *Public Service Company of Colorado*
 - **Wed 10/14/2026 04:05 pm** | 26AL-XXXXE, Advice No. 2038-E, Attachment 2, ARRR Cost of Service | *Public Service Company of Colorado* ⚡ [MEDIUM]
-- **Wed 10/14/2026 04:05 pm** | Public Service Company - AL 2038 - Tariff 8 -  ERC Complaince | *Public Service Company of Colorado*
-- **Mon 10/12/2026 02:08 pm** | C26-0654 Commission Decision Addressing Applications for Rehearing, Reargument, or Reconsideration of Decision No. C26-0554 and Authorizing Further Adjustments to Base Rates | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [24A-0547E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0547E): 24A-0547E Public Service Company - Electric - DSP 2025-2029
 
