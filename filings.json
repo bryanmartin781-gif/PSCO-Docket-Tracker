@@ -42418,5 +42418,348 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Wed 11/04/2026 02:54 pm",
+    "parsedDate": "2026-11-04T00:00:00.000Z",
+    "title": "C26-0724-I Interim Commission Decision Granting Request for Late Intervention and Waiving Response Time",
+    "docType": "Decision",
+    "submitter": "Colorado Public Utilities Commission",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-07T15:27:12.645Z",
+    "sabess": {
+      "isSABESSRelevant": true,
+      "riskLevel": "HIGH",
+      "implications": [
+        {
+          "keyword": "commission decision",
+          "risk": "HIGH",
+          "category": "Regulatory",
+          "impact": "Commission decisions can directly affect SABESS approval pathways, timelines, and regulatory precedent."
+        }
+      ]
+    }
+  },
+  {
+    "date": "Fri 11/06/2026 03:03 pm",
+    "parsedDate": "2026-11-06T00:00:00.000Z",
+    "title": "IE Communication Log – Week Ending November 6th, 2026",
+    "docType": "Compliance Filings",
+    "submitter": "Maura Coakley",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-11-07T15:27:46.871Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 11/06/2026 02:31 pm",
+    "parsedDate": "2026-11-06T00:00:00.000Z",
+    "title": "IE Communication Log – Week Ending October 30, 2026",
+    "docType": "Compliance Filings",
+    "submitter": "Maura Coakley",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-11-07T15:27:46.871Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 11/06/2026 01:48 pm",
+    "parsedDate": "2026-11-06T00:00:00.000Z",
+    "title": "Motion to Approve Independent Evaluator Contract",
+    "docType": "Motion",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-11-07T15:27:46.871Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 11/06/2026 01:48 pm",
+    "parsedDate": "2026-11-06T00:00:00.000Z",
+    "title": "Attachment A, Accion Contract for IE Services",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "24A-0442E",
+    "proceedingName": "Public Service Company - 2024 JTS",
+    "fetchedAt": "2026-11-07T15:27:46.871Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 11/05/2026 01:00 am",
+    "parsedDate": "2026-11-05T00:00:00.000Z",
+    "title": "Public Comments",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-11-07T15:27:53.296Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 06/11/2026 08:00 am",
+    "parsedDate": "2026-06-11T00:00:00.000Z",
+    "title": "Public Comments_1,  E-Filed to the Proceeding",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "25V-0480E",
+    "proceedingName": "Public Service/Trial Staff/CEO/UCA - Joint Petition",
+    "fetchedAt": "2026-11-07T15:27:53.297Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/01/2026 01:00 am",
+    "parsedDate": "2026-09-01T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 08/31/2026 01:00 am",
+    "parsedDate": "2026-08-31T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 08/28/2026 01:00 am",
+    "parsedDate": "2026-08-28T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 08/27/2026 01:00 am",
+    "parsedDate": "2026-08-27T00:00:00.000Z",
+    "title": "Public Comments_2",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 08/26/2026 01:00 am",
+    "parsedDate": "2026-08-26T00:00:00.000Z",
+    "title": "Public Comments_5",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 08/26/2026 01:00 am",
+    "parsedDate": "2026-08-26T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 08/25/2026 01:00 am",
+    "parsedDate": "2026-08-25T00:00:00.000Z",
+    "title": "Public Comments_4",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 08/24/2026 01:00 am",
+    "parsedDate": "2026-08-24T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Unknown",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.961Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 08/18/2026 01:00 am",
+    "parsedDate": "2026-08-18T00:00:00.000Z",
+    "title": "Public Comments_3",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.967Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 08/17/2026 01:00 am",
+    "parsedDate": "2026-08-17T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.968Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sat 08/15/2026 01:00 am",
+    "parsedDate": "2026-08-15T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.968Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 08/12/2026 01:00 am",
+    "parsedDate": "2026-08-12T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.968Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 08/11/2026 01:00 am",
+    "parsedDate": "2026-08-11T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.968Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 05/27/2026 01:00 am",
+    "parsedDate": "2026-05-27T00:00:00.000Z",
+    "title": "Public Comments_4",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-07T15:28:07.970Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]

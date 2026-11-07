@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-04T16:54:36.850Z
-New filings this cycle: 42 | SABESS-relevant: 2
+Last updated: 2026-11-07T15:29:04.560Z
+New filings this cycle: 21 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -10,6 +10,7 @@ New filings this cycle: 42 | SABESS-relevant: 2
 
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
+- **Wed 11/04/2026 02:54 pm** | C26-0724-I Interim Commission Decision Granting Request for Late Intervention and Waiving Response Time | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 10/16/2026 01:35 pm** | 21A-0141E - JP Development Holdings - Petition for Late Intervention | *JP Development Holdings LLC*
 - **Fri 10/16/2026 01:35 pm** | Unopposed Motion to Intervene Out of Time and Request for Waiver of Response Time of JP Development Holdings LLC | *JP Development Holdings LLC*
 - **Thu 10/15/2026 12:35 pm** | Highly Confidential October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
@@ -19,23 +20,23 @@ New filings this cycle: 42 | SABESS-relevant: 2
 - **Tue 09/15/2026 12:54 pm** | Highly Confidential September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | Highly Confidential August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Fri 08/14/2026 01:10 pm** | August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Fri 08/07/2026 09:37 am** | Highly Confidential Attachment D | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Fri 11/06/2026 03:03 pm** | IE Communication Log – Week Ending November 6th, 2026 | *Maura Coakley*
+- **Fri 11/06/2026 02:31 pm** | IE Communication Log – Week Ending October 30, 2026 | *Maura Coakley*
+- **Fri 11/06/2026 01:48 pm** | Motion to Approve Independent Evaluator Contract | *Public Service Company of Colorado*
+- **Fri 11/06/2026 01:48 pm** | Attachment A, Accion Contract for IE Services | *Public Service Company of Colorado*
 - **Mon 11/02/2026 04:26 pm** | Notice of Compliance Filing | *Public Service Company of Colorado*
 - **Fri 10/30/2026 03:51 pm** | Morgan County, Colorado's Motion to Intervene Out of Time | *County of Morgan*
 - **Tue 10/27/2026 02:01 pm** | CCSA Notice Regarding Merger | *Coalition for Community Solar Access, Inc.*
 - **Mon 10/19/2026 08:09 am** | IE Communication Log – Week Ending October 16, 2026 | *Maura Coakley*
 - **Mon 10/12/2026 02:10 pm** | C26-0655 Interim Commission Decision Approving Draft Bidder Survey | *Unknown* ⚡ [HIGH]
 - **Fri 10/09/2026 03:08 pm** | IE Communication Log | *Maura Coakley*
-- **Fri 09/11/2026 04:43 pm** | Notice of Staff Filing of Independent Evaluator's Draft Bidder Survey | *Colorado Public Utilities Commission*
-- **Fri 09/11/2026 04:43 pm** | Accion Bidder Survey | *Colorado Public Utilities Commission*
-- **Wed 09/02/2026 11:24 am** | Notice Regarding Just Transition Solicitation Base Request for Proposals Issuance | *Public Service Company of Colorado* ⚡ [LOW]
-- **Wed 08/26/2026 04:20 pm** | C26-0548-I Interim Commission Decision Granting Requests to Modify Request for Proposal | *Colorado Public Utilities Commission* ⚡ [HIGH]
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
+- **Thu 11/05/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Wed 11/04/2026 01:00 am** | Public Comments | *Comment, Public*
 - **Thu 10/22/2026 02:25 pm** | Monthly Comanche Report - October 2026 | *Public Service Company of Colorado* ⚡ [MEDIUM]
 - **Thu 10/22/2026 02:25 pm** | Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
@@ -45,7 +46,6 @@ New filings this cycle: 42 | SABESS-relevant: 2
 - **Thu 10/22/2026 02:25 pm** | Confidential Appendix C, Bilateral Purchases - October 2026 | *Public Service Company of Colorado*
 - **Thu 10/22/2026 02:25 pm** | Appendix C, Bilateral Purchases - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Thu 10/22/2026 02:25 pm** | Executable Appendix A, Sections 1-4 Supporting Appendices - October 2026 | *Public Service Company of Colorado*
-- **Thu 10/22/2026 02:25 pm** | Appendix B, Large Load Forecast - October 2026 (Public Slip Sheet) | *Public Service Company of Colorado* ⚡ [CRITICAL]
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
