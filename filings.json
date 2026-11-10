@@ -42761,5 +42761,357 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Mon 11/09/2026 08:00 am",
+    "parsedDate": "2026-11-09T00:00:00.000Z",
+    "title": "Quarterly Status Report on Independent Auditor Findings 2026 Quarter 3 - Clean Energy Plan Delivery Plan",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-10T16:49:24.247Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/09/2026 08:00 am",
+    "parsedDate": "2026-11-09T00:00:00.000Z",
+    "title": "Highly Confidential Attachment A - Q3 Executive Report",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Highly Confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-10T16:49:24.247Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/09/2026 08:00 am",
+    "parsedDate": "2026-11-09T00:00:00.000Z",
+    "title": "Highly Confidential Attachment A - Executive Summary Report (Public Slip Sheet)",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-10T16:49:24.247Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/09/2026 08:00 am",
+    "parsedDate": "2026-11-09T00:00:00.000Z",
+    "title": "Highly Confidential Attachment B",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Highly Confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-10T16:49:24.247Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/09/2026 08:00 am",
+    "parsedDate": "2026-11-09T00:00:00.000Z",
+    "title": "Highly Confidential Attachment B (Public Slip Sheet)",
+    "docType": "Attachment To Filing",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-10T16:49:24.247Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/27/2026 01:00 am",
+    "parsedDate": "2026-10-27T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.952Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sat 10/24/2026 01:00 am",
+    "parsedDate": "2026-10-24T00:00:00.000Z",
+    "title": "Public Comments_2",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.952Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/23/2026 01:00 am",
+    "parsedDate": "2026-10-23T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.952Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 10/22/2026 01:00 am",
+    "parsedDate": "2026-10-22T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.952Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Wed 10/21/2026 01:00 am",
+    "parsedDate": "2026-10-21T00:00:00.000Z",
+    "title": "Public Comments_2",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.953Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/20/2026 12:00 pm",
+    "parsedDate": "2026-10-20T00:00:00.000Z",
+    "title": "Ceres Comments_1 on Public Service Company of Colorado's Proposed Large Load Tariff, with Enclosure",
+    "docType": "Comments",
+    "submitter": "CERES, INC.",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.953Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/20/2026 01:00 am",
+    "parsedDate": "2026-10-20T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.953Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 10/19/2026 04:35 pm",
+    "parsedDate": "2026-10-19T00:00:00.000Z",
+    "title": "Comment_1 on Large Load Tariff by 350 Colorado Policy Committee",
+    "docType": "Comments",
+    "submitter": "350 Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.953Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/16/2026 01:00 am",
+    "parsedDate": "2026-10-16T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.954Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 10/15/2026 08:00 am",
+    "parsedDate": "2026-10-15T00:00:00.000Z",
+    "title": "Public Comments_1 (4863 Petitioners Names)",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.954Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sun 10/11/2026 01:00 am",
+    "parsedDate": "2026-10-11T00:00:00.000Z",
+    "title": "Public Comments_2",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.954Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 10/09/2026 01:00 am",
+    "parsedDate": "2026-10-09T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.954Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 09/22/2026 01:00 am",
+    "parsedDate": "2026-09-22T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.955Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 09/21/2026 01:00 am",
+    "parsedDate": "2026-09-21T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.955Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Sun 09/20/2026 01:00 am",
+    "parsedDate": "2026-09-20T00:00:00.000Z",
+    "title": "Public Comments_2",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.955Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 09/04/2026 01:00 am",
+    "parsedDate": "2026-09-04T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.955Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Thu 09/03/2026 01:00 am",
+    "parsedDate": "2026-09-03T00:00:00.000Z",
+    "title": "Public Comments_1",
+    "docType": "Comments",
+    "submitter": "Comment, Public",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-10T16:50:21.955Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]

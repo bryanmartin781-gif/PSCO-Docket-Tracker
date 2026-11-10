@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-07T15:29:04.560Z
-New filings this cycle: 21 | SABESS-relevant: 1
+Last updated: 2026-11-10T16:51:14.444Z
+New filings this cycle: 22 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -10,16 +10,16 @@ New filings this cycle: 21 | SABESS-relevant: 1
 
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
+- **Mon 11/09/2026 08:00 am** | Quarterly Status Report on Independent Auditor Findings 2026 Quarter 3 - Clean Energy Plan Delivery Plan | *Public Service Company of Colorado*
+- **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment A - Q3 Executive Report | *Public Service Company of Colorado*
+- **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment A - Executive Summary Report (Public Slip Sheet) | *Public Service Company of Colorado*
+- **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment B | *Public Service Company of Colorado*
+- **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment B (Public Slip Sheet) | *Public Service Company of Colorado*
 - **Wed 11/04/2026 02:54 pm** | C26-0724-I Interim Commission Decision Granting Request for Late Intervention and Waiving Response Time | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 10/16/2026 01:35 pm** | 21A-0141E - JP Development Holdings - Petition for Late Intervention | *JP Development Holdings LLC*
 - **Fri 10/16/2026 01:35 pm** | Unopposed Motion to Intervene Out of Time and Request for Waiver of Response Time of JP Development Holdings LLC | *JP Development Holdings LLC*
 - **Thu 10/15/2026 12:35 pm** | Highly Confidential October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Thu 10/15/2026 12:35 pm** | October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Mon 10/12/2026 09:30 am** | Public Service Company of Colorado's October 2026 Quarterly Report on the Status of the Resource Solicitation Cluster Process | *Public Service Company of Colorado*
-- **Tue 09/15/2026 12:54 pm** | September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Tue 09/15/2026 12:54 pm** | Highly Confidential September NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Fri 08/14/2026 01:10 pm** | Highly Confidential August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Fri 08/14/2026 01:10 pm** | August NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
