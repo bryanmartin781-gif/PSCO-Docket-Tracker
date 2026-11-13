@@ -43113,5 +43113,37 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Thu 11/12/2026 01:49 pm",
+    "parsedDate": "2026-11-12T00:00:00.000Z",
+    "title": "City and County of Denver's Statement of Position",
+    "docType": "Briefs/Statement Of Position",
+    "submitter": "City and County of Denver",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-13T16:59:34.478Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Tue 10/20/2026 04:01 pm",
+    "parsedDate": "2026-10-20T00:00:00.000Z",
+    "title": "Transcripts from 10-20-2026 Public Testimony Hearing Remotely",
+    "docType": "Transcripts",
+    "submitter": "Unknown",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-13T16:59:34.480Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]

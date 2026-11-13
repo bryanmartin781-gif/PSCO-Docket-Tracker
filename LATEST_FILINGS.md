@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-10T16:51:14.444Z
-New filings this cycle: 22 | SABESS-relevant: 0
+Last updated: 2026-11-13T17:00:37.600Z
+New filings this cycle: 2 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -49,6 +49,7 @@ New filings this cycle: 22 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Thu 11/12/2026 01:49 pm** | City and County of Denver's Statement of Position | *City and County of Denver*
 - **Fri 10/30/2026 08:57 am** | Colorado Energy Consumers' Notice of Filing Affidavit | *Colorado Energy Consumers Group*
 - **Fri 10/30/2026 08:57 am** | Hearing Exhibit 1500, Affidavit for Bieber REVISED Answer Testimony | *Colorado Energy Consumers Group*
 - **Thu 10/29/2026 04:23 am** | Public Comment (1) Email | *Comment, Public*
@@ -58,7 +59,6 @@ New filings this cycle: 22 | SABESS-relevant: 0
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) Executable LLT Hearing Large Customer Tracker, Rev. 1 | *Public Service Company of Colorado*
 - **Wed 10/28/2026 12:33 pm** | Notice of Filing Revised Form ESA, CTT, and Schedule TL | *Public Service Company of Colorado*
 - **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 102, Attachment MVP-1, Clean Transition Tariff, Rev. 1 | *Public Service Company of Colorado*
-- **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 103, Attachment JRK-1, Transmission Large - Service TL, Rev. 1 | *Public Service Company of Colorado* ⚡ [HIGH]
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
