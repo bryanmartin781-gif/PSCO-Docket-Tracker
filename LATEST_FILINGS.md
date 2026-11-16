@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-13T17:00:37.600Z
-New filings this cycle: 2 | SABESS-relevant: 0
+Last updated: 2026-11-16T19:20:16.562Z
+New filings this cycle: 5 | SABESS-relevant: 0
 
 ## Background Context
 
@@ -10,6 +10,8 @@ New filings this cycle: 2 | SABESS-relevant: 0
 
 ## [21A-0141E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=21A-0141E): Public Service of Colorado - 2021 ERP and CEP
 
+- **Mon 11/16/2026 09:56 am** | Highly Confidential November NTP IPP Contracting Status Report | *Public Service Company of Colorado*
+- **Mon 11/16/2026 09:56 am** | November NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 - **Mon 11/09/2026 08:00 am** | Quarterly Status Report on Independent Auditor Findings 2026 Quarter 3 - Clean Energy Plan Delivery Plan | *Public Service Company of Colorado*
 - **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment A - Q3 Executive Report | *Public Service Company of Colorado*
 - **Mon 11/09/2026 08:00 am** | Highly Confidential Attachment A - Executive Summary Report (Public Slip Sheet) | *Public Service Company of Colorado*
@@ -18,8 +20,6 @@ New filings this cycle: 2 | SABESS-relevant: 0
 - **Wed 11/04/2026 02:54 pm** | C26-0724-I Interim Commission Decision Granting Request for Late Intervention and Waiving Response Time | *Colorado Public Utilities Commission* ⚡ [HIGH]
 - **Fri 10/16/2026 01:35 pm** | 21A-0141E - JP Development Holdings - Petition for Late Intervention | *JP Development Holdings LLC*
 - **Fri 10/16/2026 01:35 pm** | Unopposed Motion to Intervene Out of Time and Request for Waiver of Response Time of JP Development Holdings LLC | *JP Development Holdings LLC*
-- **Thu 10/15/2026 12:35 pm** | Highly Confidential October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
-- **Thu 10/15/2026 12:35 pm** | October NTP IPP Contracting Status Report | *Public Service Company of Colorado*
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
@@ -49,6 +49,9 @@ New filings this cycle: 2 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
+- **Mon 11/16/2026 12:13 pm** | CEBA Statement of Position | *Corporate Energy Buyers Association*
+- **Fri 11/13/2026 04:59 pm** | GreenLatinos' SOP | *GreenLatinos*
+- **Fri 11/13/2026 12:28 pm** | Black_Hills_Statement_of_Position_26AL-0137E | *Black Hills Colorado Electric, LLC*
 - **Thu 11/12/2026 01:49 pm** | City and County of Denver's Statement of Position | *City and County of Denver*
 - **Fri 10/30/2026 08:57 am** | Colorado Energy Consumers' Notice of Filing Affidavit | *Colorado Energy Consumers Group*
 - **Fri 10/30/2026 08:57 am** | Hearing Exhibit 1500, Affidavit for Bieber REVISED Answer Testimony | *Colorado Energy Consumers Group*
@@ -56,9 +59,6 @@ New filings this cycle: 2 | SABESS-relevant: 0
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Notice of Filing Revised LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) LLT Hearing Large Customer Tracker, Rev. 1 | *Public Service Company of Colorado*
 - **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, LLT Hearing Large Customer Tracker, Rev. 1 (Public Slip Sheet) | *Public Service Company of Colorado*
-- **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) Executable LLT Hearing Large Customer Tracker, Rev. 1 | *Public Service Company of Colorado*
-- **Wed 10/28/2026 12:33 pm** | Notice of Filing Revised Form ESA, CTT, and Schedule TL | *Public Service Company of Colorado*
-- **Wed 10/28/2026 12:33 pm** | Hearing Exhibit 102, Attachment MVP-1, Clean Transition Tariff, Rev. 1 | *Public Service Company of Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 

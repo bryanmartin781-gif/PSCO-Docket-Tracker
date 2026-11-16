@@ -43145,5 +43145,85 @@
       "riskLevel": "LOW",
       "implications": []
     }
+  },
+  {
+    "date": "Mon 11/16/2026 09:56 am",
+    "parsedDate": "2026-11-16T00:00:00.000Z",
+    "title": "Highly Confidential November NTP IPP Contracting Status Report",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Highly Confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-16T19:18:18.377Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/16/2026 09:56 am",
+    "parsedDate": "2026-11-16T00:00:00.000Z",
+    "title": "November NTP IPP Contracting Status Report",
+    "docType": "Report",
+    "submitter": "Public Service Company of Colorado",
+    "confidentiality": "Non-confidential",
+    "docketId": "21A-0141E",
+    "proceedingName": "Public Service of Colorado - 2021 ERP and CEP",
+    "fetchedAt": "2026-11-16T19:18:18.378Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Mon 11/16/2026 12:13 pm",
+    "parsedDate": "2026-11-16T00:00:00.000Z",
+    "title": "CEBA Statement of Position",
+    "docType": "Briefs/Statement Of Position",
+    "submitter": "Corporate Energy Buyers Association",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-16T19:19:18.412Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 11/13/2026 04:59 pm",
+    "parsedDate": "2026-11-13T00:00:00.000Z",
+    "title": "GreenLatinos' SOP",
+    "docType": "Briefs/Statement Of Position",
+    "submitter": "GreenLatinos",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-16T19:19:18.412Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
+  },
+  {
+    "date": "Fri 11/13/2026 12:28 pm",
+    "parsedDate": "2026-11-13T00:00:00.000Z",
+    "title": "Black_Hills_Statement_of_Position_26AL-0137E",
+    "docType": "Briefs/Statement Of Position",
+    "submitter": "Black Hills Colorado Electric, LLC",
+    "confidentiality": "Non-confidential",
+    "docketId": "26AL-0137E",
+    "proceedingName": "Public Service Company - AL 2018 - Tariff 8 - Large Load",
+    "fetchedAt": "2026-11-16T19:19:18.412Z",
+    "sabess": {
+      "isSABESSRelevant": false,
+      "riskLevel": "LOW",
+      "implications": []
+    }
   }
 ]
