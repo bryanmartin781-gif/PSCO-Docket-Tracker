@@ -1,7 +1,7 @@
 # PSCO Docket Tracker
 
-Last updated: 2026-11-16T19:20:16.562Z
-New filings this cycle: 5 | SABESS-relevant: 0
+Last updated: 2026-11-19T18:01:39.795Z
+New filings this cycle: 20 | SABESS-relevant: 1
 
 ## Background Context
 
@@ -23,6 +23,7 @@ New filings this cycle: 5 | SABESS-relevant: 0
 
 ## [24A-0442E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=24A-0442E): Public Service Company - 2024 JTS
 
+- **Tue 11/17/2026 08:00 am** | IE Communication Log – Week Ending November 13th, 2026.docx | *Maura Coakley*
 - **Fri 11/06/2026 03:03 pm** | IE Communication Log – Week Ending November 6th, 2026 | *Maura Coakley*
 - **Fri 11/06/2026 02:31 pm** | IE Communication Log – Week Ending October 30, 2026 | *Maura Coakley*
 - **Fri 11/06/2026 01:48 pm** | Motion to Approve Independent Evaluator Contract | *Public Service Company of Colorado*
@@ -32,7 +33,6 @@ New filings this cycle: 5 | SABESS-relevant: 0
 - **Tue 10/27/2026 02:01 pm** | CCSA Notice Regarding Merger | *Coalition for Community Solar Access, Inc.*
 - **Mon 10/19/2026 08:09 am** | IE Communication Log – Week Ending October 16, 2026 | *Maura Coakley*
 - **Mon 10/12/2026 02:10 pm** | C26-0655 Interim Commission Decision Approving Draft Bidder Survey | *Unknown* ⚡ [HIGH]
-- **Fri 10/09/2026 03:08 pm** | IE Communication Log | *Maura Coakley*
 
 ## [25V-0480E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25V-0480E): Public Service/Trial Staff/CEO/UCA - Joint Petition
 
@@ -49,16 +49,16 @@ New filings this cycle: 5 | SABESS-relevant: 0
 
 ## [26AL-0137E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=26AL-0137E): Public Service Company - AL 2018 - Tariff 8 - Large Load
 
-- **Mon 11/16/2026 12:13 pm** | CEBA Statement of Position | *Corporate Energy Buyers Association*
-- **Fri 11/13/2026 04:59 pm** | GreenLatinos' SOP | *GreenLatinos*
-- **Fri 11/13/2026 12:28 pm** | Black_Hills_Statement_of_Position_26AL-0137E | *Black Hills Colorado Electric, LLC*
-- **Thu 11/12/2026 01:49 pm** | City and County of Denver's Statement of Position | *City and County of Denver*
-- **Fri 10/30/2026 08:57 am** | Colorado Energy Consumers' Notice of Filing Affidavit | *Colorado Energy Consumers Group*
-- **Fri 10/30/2026 08:57 am** | Hearing Exhibit 1500, Affidavit for Bieber REVISED Answer Testimony | *Colorado Energy Consumers Group*
-- **Thu 10/29/2026 04:23 am** | Public Comment (1) Email | *Comment, Public*
-- **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Notice of Filing Revised LLT Hearing Large Customer Tracker | *Public Service Company of Colorado*
-- **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, Highly Confidential (Category 14-15) LLT Hearing Large Customer Tracker, Rev. 1 | *Public Service Company of Colorado*
-- **Wed 10/28/2026 02:24 pm** | Hearing Exhibit 116, LLT Hearing Large Customer Tracker, Rev. 1 (Public Slip Sheet) | *Public Service Company of Colorado*
+- **Mon 11/16/2026 04:45 pm** | Statement of Position of Public Service Company of Colorado - Large Load Tariff | *Public Service Company of Colorado*
+- **Mon 11/16/2026 04:38 pm** | Google LLC's Statement of Position | *Google LLC*
+- **Mon 11/16/2026 04:33 pm** | Climax's Statement of Position | *Climax Molybdenum Company*
+- **Mon 11/16/2026 04:32 pm** | Statement of Position of United Power, Inc. | *United Power, Inc.*
+- **Mon 11/16/2026 04:30 pm** | Hearing Exhibit 1306, Staff's Post-Hearing Statement of Position | *Colorado Public Utilities Commission*
+- **Mon 11/16/2026 04:29 pm** | Colorado Energy Consumers' Statement of Position | *Colorado Energy Consumers Group*
+- **Mon 11/16/2026 04:26 pm** | Statement of Position of the City of Boulder | *City of Boulder*
+- **Mon 11/16/2026 04:25 pm** | Walmart's Statement of Position | *Wal-Mart Stores, Inc. and Sam's West, Inc.*
+- **Mon 11/16/2026 04:21 pm** | Data Center Coalition's Statement of Position | *Data Center Coalition*
+- **Mon 11/16/2026 04:20 pm** | Statement of Position of Energy Outreach Colorado | *Energy Outreach Colorado*
 
 ## [25AL-0494E](https://www.dora.state.co.us/pls/efi/EFI.Show_Docket?p_session_id=&p_docket_id=25AL-0494E): Public Service Company AL 2006-Tariff 8 - Electric Rate Case
 
